@@ -1,0 +1,441 @@
+{
+    "success": true,
+    "data": {
+        "name": "Knowsley Inn & Lounge Food Menu",
+        "categories": [
+            {
+                "name": "Starters",
+                "products": [
+                    {
+                        "name": "Soup of the day",
+                        "description": "Served with bread roll and butter",
+                        "price": 6
+                    },
+                    {
+                        "name": "Chicken Wings",
+                        "description": "Served with salad and BBQ sauce",
+                        "price": 7
+                    },
+                    {
+                        "name": "Brie Wedges",
+                        "description": "Served with cranberry jelly",
+                        "price": 8
+                    },
+                    {
+                        "name": "Salmon Fishcake",
+                        "description": "Served with tartare sauce",
+                        "price": 7.5
+                    },
+                    {
+                        "name": "Calamari",
+                        "price": 7
+                    },
+                    {
+                        "name": "Mini Duck & Hoisin Spring Roll",
+                        "description": "Served with hoisin dip",
+                        "price": 7
+                    }
+                ]
+            },
+            {
+                "name": "Main Course",
+                "products": [
+                    {
+                        "name": "Gnocchi al Pesto",
+                        "description": "Potato gnocchi in pesto sauce served with parmesan cheese",
+                        "allergies": [
+                            "gluten-free"
+                        ],
+                        "price": 9
+                    },
+                    {
+                        "name": "Spaghetti Bolognese",
+                        "description": "Spaghetti pasta, Bolognese sauce, parmesan cheese",
+                        "allergies": [
+                            "gluten-free"
+                        ],
+                        "price": 13.5
+                    },
+                    {
+                        "name": "Caesar",
+                        "description": "Lettuce, croutons, parmesan, Caesar dressing",
+                        "price": 8,
+                        "modifiers": [
+                            {
+                                "name": "Add-ons",
+                                "options": [
+                                    {
+                                        "name": "add chicken",
+                                        "price": 3.5
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Fish and Chips",
+                        "description": "Beer buttered fish fillet, chips, mushy peas, tartar sauce",
+                        "price": 16
+                    },
+                    {
+                        "name": "Beef Burger",
+                        "description": "Beef burger served in brioche bun with bacon, cheese, lettuce, tomato, chips and slaw",
+                        "price": 13.5
+                    },
+                    {
+                        "name": "Sweet Potato, Chickpeas & Spinach Curry",
+                        "description": "Served with basmati rice, mango chutney, poppadoms",
+                        "price": 12,
+                        "allergies": [
+                            "vegan"
+                        ]
+                    },
+                    {
+                        "name": "Chicken Tikka",
+                        "description": "Served with basmati rice, mango chutney, poppadoms",
+                        "price": 13
+                    },
+                    {
+                        "name": "Chicken New Yorker",
+                        "description": "Breaded chicken breast, topped with BBQ sauce, grilled back bacon and cheese. Served with salad and chips",
+                        "price": 13
+                    },
+                    {
+                        "name": "Beef Lasagne",
+                        "description": "Served with salad and garlic bread",
+                        "price": 13
+                    }
+                ]
+            },
+            {
+                "name": "Pizza",
+                "products": [
+                    {
+                        "name": "Marinara",
+                        "description": "Tomato sauce, basil, garlic",
+                        "allergies": [
+                            "vegan"
+                        ],
+                        "price": 9.5
+                    },
+                    {
+                        "name": "Margherita",
+                        "description": "Tomato sauce, mozzarella, basil",
+                        "price": 10.5
+                    },
+                    {
+                        "name": "Pepperoni",
+                        "description": "Tomato sauce, mozzarella, basil, pepperoni",
+                        "price": 11
+                    },
+                    {
+                        "name": "Zingara",
+                        "description": "Tomato sauce, mozzarella, basil, ham, mushrooms",
+                        "price": 11
+                    },
+                    {
+                        "name": "Pollo",
+                        "description": "Tomato sauce, mozzarella, basil, chicken, jalapeno",
+                        "price": 12.5
+                    },
+                    {
+                        "name": "Americana",
+                        "description": "Tomato sauce, mozzarella, basil, chicken, bacon, pepperoni",
+                        "price": 13
+                    }
+                ]
+            },
+            {
+                "name": "Side Dish",
+                "products": [
+                    {
+                        "name": "Garlic Bread",
+                        "price": 3.25
+                    },
+                    {
+                        "name": "House Salad",
+                        "price": 4
+                    },
+                    {
+                        "name": "Chunky Chips",
+                        "price": 3.5
+                    },
+                    {
+                        "name": "Onion Rings",
+                        "price": 3.25
+                    }
+                ]
+            },
+            {
+                "name": "To Finish",
+                "products": [
+                    {
+                        "name": "Movenpick Ice Cream",
+                        "description": "Vanilla, sweets chocolate, raspberry sorbet",
+                        "price": 6
+                    },
+                    {
+                        "name": "Sticky Toffee Pudding",
+                        "description": "Toffee popcorn, vanilla ice cream, toffee sauce",
+                        "price": 7
+                    },
+                    {
+                        "name": "Waffle",
+                        "description": "Banana, Toffee sauce, vanilla ice cream",
+                        "price": 7
+                    },
+                    {
+                        "name": "Apple Crumble",
+                        "description": "Bramley apples & Cinnamon crumble, served with vanilla ice cream",
+                        "price": 7
+                    }
+                ]
+            },
+            {
+                "name": "Draught & Bottles",
+                "products": [
+                    {
+                        "name": "Carlsberg Pint",
+                        "price": 2.75
+                    },
+                    {
+                        "name": "Carlsberg Half",
+                        "price": 2.75
+                    },
+                    {
+                        "name": "Hobgoblin Pint",
+                        "price": 3.55
+                    },
+                    {
+                        "name": "Hobgoblin Half",
+                        "price": 2.75
+                    },
+                    {
+                        "name": "Kingston Cider Pint",
+                        "price": 2.4
+                    },
+                    {
+                        "name": "Kingston Cider Half",
+                        "price": 2.35
+                    },
+                    {
+                        "name": "Peretti Pint",
+                        "price": 5.65
+                    },
+                    {
+                        "name": "Peretti Half",
+                        "price": 2.9
+                    },
+                    {
+                        "name": "Guinness",
+                        "price": 5.85
+                    },
+                    {
+                        "name": "Budwiser",
+                        "price": 4.85
+                    },
+                    {
+                        "name": "Corona",
+                        "price": 4.85
+                    },
+                    {
+                        "name": "Sol Lager",
+                        "price": 4.8
+                    },
+                    {
+                        "name": "Desperado Tequila",
+                        "price": 4.8
+                    },
+                    {
+                        "name": "Peroni Nastro",
+                        "price": 4.9
+                    },
+                    {
+                        "name": "Rekorderlig Various Flavours",
+                        "price": 6.8
+                    }
+                ]
+            },
+            {
+                "name": "Spirits",
+                "products": [
+                    {
+                        "name": "Absolute Blue",
+                        "price": 3.65
+                    },
+                    {
+                        "name": "Absolute Vanilla",
+                        "price": 3.65
+                    },
+                    {
+                        "name": "Bacardi Carta Blanca",
+                        "price": 3.65
+                    },
+                    {
+                        "name": "Captain Morgan Dark",
+                        "price": 3.65
+                    },
+                    {
+                        "name": "Malibu Rum",
+                        "price": 3.65
+                    },
+                    {
+                        "name": "Famouse Grouse",
+                        "price": 3.65
+                    },
+                    {
+                        "name": "Gordon's Gin",
+                        "price": 3.65
+                    },
+                    {
+                        "name": "Gordon's Pink Gin",
+                        "price": 3.65
+                    },
+                    {
+                        "name": "Martell VS",
+                        "price": 3.65
+                    },
+                    {
+                        "name": "Whitley Neil Gin Various Flavours",
+                        "price": 4.25
+                    },
+                    {
+                        "name": "Jack Daniels",
+                        "price": 4.65
+                    },
+                    {
+                        "name": "Jamesons Whisky",
+                        "price": 4.65
+                    },
+                    {
+                        "name": "Baileys Irish",
+                        "price": 4.65
+                    },
+                    {
+                        "name": "Southern Comfort",
+                        "price": 3.65
+                    },
+                    {
+                        "name": "Archers Peach Schnapps",
+                        "price": 3.65
+                    },
+                    {
+                        "name": "Sambuca",
+                        "price": 3.15
+                    },
+                    {
+                        "name": "Jagermeister",
+                        "price": 3.15
+                    }
+                ]
+            },
+            {
+                "name": "Cocktails",
+                "products": [
+                    {
+                        "name": "Pink Lady Spritz",
+                        "price": 8.95
+                    },
+                    {
+                        "name": "Caribbean Reef",
+                        "price": 8.95
+                    },
+                    {
+                        "name": "Cosmopolitan",
+                        "price": 8.95
+                    },
+                    {
+                        "name": "Strawberry Daiquiri",
+                        "price": 8.95
+                    },
+                    {
+                        "name": "Classic Mojito",
+                        "price": 8.95
+                    },
+                    {
+                        "name": "Espresso Martini",
+                        "price": 8.95
+                    },
+                    {
+                        "name": "Pornstar Martini",
+                        "price": 8.95
+                    },
+                    {
+                        "name": "Bramble in bloom",
+                        "price": 8.95
+                    }
+                ]
+            },
+            {
+                "name": "Soft Drinks",
+                "products": [
+                    {
+                        "name": "J20 Various Flavours",
+                        "price": 2.3
+                    },
+                    {
+                        "name": "7up Can",
+                        "price": 1.45
+                    },
+                    {
+                        "name": "Pepsi Can",
+                        "price": 1.85
+                    },
+                    {
+                        "name": "Pepsi Max Can",
+                        "price": 1.35
+                    },
+                    {
+                        "name": "Tango Can",
+                        "price": 1.45
+                    },
+                    {
+                        "name": "Britvic Tonic",
+                        "price": 2.15
+                    },
+                    {
+                        "name": "Britvic Tonic Low",
+                        "price": 2.15
+                    },
+                    {
+                        "name": "Britvic Orange",
+                        "price": 2.15
+                    },
+                    {
+                        "name": "Cordial Dash",
+                        "price": 0.65
+                    },
+                    {
+                        "name": "Pepsi Max Half pint",
+                        "price": 1.95
+                    },
+                    {
+                        "name": "Diet Pepsi Half pint",
+                        "price": 1.95
+                    },
+                    {
+                        "name": "R Whites Lemonade Half pint",
+                        "price": 2.25
+                    }
+                ]
+            },
+            {
+                "name": "Bar Snacks",
+                "products": [
+                    {
+                        "name": "Various Snack bars",
+                        "price": 1.15
+                    },
+                    {
+                        "name": "Nobbys Nuts - Various Flavours",
+                        "price": 1.65
+                    },
+                    {
+                        "name": "Pringles - Various flavours",
+                        "price": 1.65
+                    }
+                ]
+            }
+        ]
+    }
+}

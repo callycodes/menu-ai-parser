@@ -1,0 +1,62 @@
+{
+  "menus": [
+    {
+      "name": "Specials",
+      "categories": [
+        {
+          "name": "Specials",
+          "products": [
+            {
+              "name": "Padron Peppers",
+              "description": "Fresh peppers fried & salted",
+              "price": 7.95
+            },
+            {
+              "name": "Mozzarella Sticks",
+              "description": "With a homemade pear chutney",
+              "price": 7.95
+            },
+            {
+              "name": "Truffle Infused Mac & Cheese",
+              "description": "Baked & topped with fresh parmesan cheese",
+              "price": 7.95
+            },
+            {
+              "name": "Gambas Pil Pil",
+              "description": "King prawns infused with chilli garlic butter, served with toasted ciabatta",
+              "price": 9.95
+            },
+            {
+              "name": "Jalapeno Poppers",
+              "description": "Stuffed with cream cheese & served with a crème fraiche dip",
+              "price": 7.95
+            },
+            {
+              "name": "Gyros",
+              "description": "Homemade Greek style gyros",
+              "price": 7.95,
+              "modifiers": [
+                {
+                  "name": "Choose Gyros",
+                  "options": [
+                    {
+                      "name": "Chicken",
+                      "price": 6.00
+                    },
+                    {
+                      "name": "Halloumi",
+                      "price": 6.00
+                    },
+                    {
+                      "name": "Mixed"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

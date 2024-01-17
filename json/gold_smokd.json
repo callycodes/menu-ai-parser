@@ -1,0 +1,306 @@
+{
+    "success": true,
+    "data": {
+        "name": "SMOK'D Menu",
+        "categories": [
+            {
+                "name": "Starters",
+                "products": [
+                    {
+                        "name": "Baby Back Ribs Half Rack",
+                        "description": "With barbecue glaze & sweet pickles",
+                        "price": 9
+                    },
+                    {
+                        "name": "Charred Flat Bread",
+                        "description": "With chickpea hummus & dukkah",
+                        "price": 5,
+                        "allergies": [
+                            "vege"
+                        ]
+                    },
+                    {
+                        "name": "Deep Fried Calamari",
+                        "description": "With Smok'd paprika mayo",
+                        "price": 8
+                    },
+                    {
+                        "name": "Buffalo Cauliflower",
+                        "description": "With garlic aioli, celery & sesame",
+                        "price": 7,
+                        "allergies": [
+                            "vege"
+                        ]
+                    },
+                    {
+                        "name": "Macettes",
+                        "description": "Mac & cheese nuggets with Smok'd paprika mayo",
+                        "price": 7
+                    }
+                ]
+            },
+            {
+                "name": "Chicken Wings",
+                "products": [
+                    {
+                        "name": "6 Pieces",
+                        "description": "With Blue cheese, Celery & Sesame",
+                        "price": 7.5
+                    },
+                    {
+                        "name": "12 Pieces",
+                        "price": 14
+                    },
+                    {
+                        "name": "18 Pieces",
+                        "price": 19
+                    }
+                ]
+            },
+            {
+                "name": "Barbeque",
+                "products": [
+                    {
+                        "name": "Smok'd Pub's Famous Jacob's Ladder Beef Rib",
+                        "description": "Our signature dish served with seasonal sweet pickles.",
+                        "price": 22
+                    },
+                    {
+                        "name": "Full Rack Baby Back Ribs",
+                        "description": "With barbecue glaze & sweet pickles",
+                        "price": 17
+                    },
+                    {
+                        "name": "Pork Belly Rib",
+                        "description": "With Korean kimchi",
+                        "price": 16
+                    },
+                    {
+                        "name": "Hickory Smok'd Half Chicken",
+                        "description": "With Alabama sauce, grilled gem & dukkah",
+                        "price": 15
+                    },
+                    {
+                        "name": "Smok'd Vegan Shawarma",
+                        "description": "With flatbread, garlic, salad & chilli sauce",
+                        "price": 15,
+                        "allergies": [
+                            "vegan"
+                        ]
+                    },
+                    {
+                        "name": "Rib Combo",
+                        "description": "Served with a side of your choice",
+                        "price": 29
+                    }
+                ]
+            },
+            {
+                "name": "Burgers",
+                "products": [
+                    {
+                        "name": "The Classic Burger",
+                        "description": "7oz beef patty with smok'd bacon, cheese, burger mayo, relish, onion, tomato, lettuce & dill pickles in a brioche bun.",
+                        "price": 12
+                    },
+                    {
+                        "name": "The Vegan Classic",
+                        "description": "Plant-based patty, vegan bacon, cheese, mayo, relish, onion, tomato, lettuce & pickles in a brioche bun.",
+                        "price": 13,
+                        "allergies": [
+                            "vegan"
+                        ]
+                    },
+                    {
+                        "name": "Pulled Pork Bun",
+                        "description": "Shredded pulled pork in bbq sauce with house slaw",
+                        "price": 12
+                    },
+                    {
+                        "name": "Fried Chicken Sandwich",
+                        "description": "Country fried chicken breast on a bed of lettuce and garlic aioli with nacho cheese, tortilla chips & salsa.",
+                        "price": 13
+                    },
+                    {
+                        "name": "BBQ Pork Burger",
+                        "description": "Everything on our classic burger (see above) topped with barbecue pulled pork & house slaw.",
+                        "price": 15
+                    }
+                ]
+            },
+            {
+                "name": "Sides",
+                "products": [
+                    {
+                        "name": "Skin On Fries",
+                        "price": 3.5,
+                        "allergies": [
+                            "vege"
+                        ]
+                    },
+                    {
+                        "name": "House Slaw",
+                        "price": 3.5,
+                        "allergies": [
+                            "vege"
+                        ]
+                    },
+                    {
+                        "name": "Triple Cheese Macaroni",
+                        "price": 6,
+                        "allergies": [
+                            "vege"
+                        ]
+                    },
+                    {
+                        "name": "Sweet Potato Wedges",
+                        "price": 4.5,
+                        "allergies": [
+                            "vege"
+                        ]
+                    },
+                    {
+                        "name": "Chargrilled Corn",
+                        "price": 4.5,
+                        "allergies": [
+                            "vegan"
+                        ]
+                    },
+                    {
+                        "name": "Asian Slaw",
+                        "price": 3.5,
+                        "allergies": [
+                            "vegan"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Loaded Fries",
+                "products": [
+                    {
+                        "name": "Smoker Trash",
+                        "description": "Skinny fries, brisket, melted American cheese.",
+                        "price": 9
+                    },
+                    {
+                        "name": "Chilli Bean Fries",
+                        "description": "Skinny fries, with chilli beans, salsa and avocado mayo.",
+                        "price": 9,
+                        "allergies": [
+                            "vegan"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Desserts",
+                "products": [
+                    {
+                        "name": "Apple Tartlet",
+                        "price": 7
+                    },
+                    {
+                        "name": "Caramel Popcorn Sundae",
+                        "price": 7
+                    },
+                    {
+                        "name": "Tripple Chocolate Brownie",
+                        "price": 7
+                    },
+                    {
+                        "name": "Ice Cream",
+                        "description": "Choose from modern vanilla, strawberry, chocolate, mint choc chip.",
+                        "price": 2
+                    }
+                ]
+            },
+            {
+                "name": "Weekly Deals",
+                "products": [
+                    {
+                        "name": "Monday - Ribfest",
+                        "description": "Ribs, Fries, Slaw & a Drink",
+                        "price": 10,
+                        "modifiers": [
+                            {
+                                "name": "Choice of Ribs",
+                                "options": [
+                                    {
+                                        "name": "Pork Belly"
+                                    },
+                                    {
+                                        "name": "Baby Back Pork Ribs"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Upgrades",
+                                "options": [
+                                    {
+                                        "name": "Jacob's Ladder Beef Rib",
+                                        "price": 2
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Tuesday - Burger Tuesday",
+                        "description": "Burger, Fries & a Soft Drink",
+                        "price": 10,
+                        "modifiers": [
+                            {
+                                "name": "Choice of Burger",
+                                "options": [
+                                    {
+                                        "name": "Classic Burger"
+                                    },
+                                    {
+                                        "name": "Vegan Classic Burger",
+                                        "allergies": [
+                                            "vegan"
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Upgrades",
+                                "options": [
+                                    {
+                                        "name": "Burger of the Month",
+                                        "price": 5
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Wednesday - Chicken Shop",
+                        "description": "Chicken, Fries & a Soft Drink",
+                        "price": 10,
+                        "modifiers": [
+                            {
+                                "name": "Choice of Chicken",
+                                "options": [
+                                    {
+                                        "name": "Half Smok'd Chicken"
+                                    },
+                                    {
+                                        "name": "Chicken Wings"
+                                    },
+                                    {
+                                        "name": "Buffalo Cauliflower",
+                                        "allergies": [
+                                            "vegan"
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

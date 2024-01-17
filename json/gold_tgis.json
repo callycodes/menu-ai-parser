@@ -1,0 +1,563 @@
+{
+    "success": true,
+    "data": {
+        "name": "TGI Fridays Menu",
+        "categories": [
+            {
+                "name": "Sweet Treats",
+                "products": [
+                    {
+                        "name": "Chocolate Fudge Fixation",
+                        "price": 8,
+                        "calories": 549,
+                        "description": "Triple-layered chocolate cake with chocolate and fudge filling served warm with vanilla ice cream."
+                    },
+                    {
+                        "name": "Brownie Obsession",
+                        "price": 10,
+                        "calories": 660,
+                        "description": "Gooey, rich brownies with hot fudge, vanilla ice cream and chocolate and caramel sauces."
+                    },
+                    {
+                        "name": "Honeycomb Cheesecake",
+                        "price": 8,
+                        "calories": 708,
+                        "description": "Served with chocolate drizzled with chocolate and caramel sauces."
+                    },
+                    {
+                        "name": "Apple Crumble Pie",
+                        "price": 8,
+                        "calories": 539,
+                        "description": "Served with vanilla ice cream."
+                    }
+                ]
+            },
+            {
+                "name": "Fridays' Fave Dessert Platter",
+                "products": [
+                    {
+                        "name": "Fridays' Fave Dessert Platter",
+                        "price": 17,
+                        "calories": 1005,
+                        "description": "A selection of Fridays' five desserts: Chocolate Fudge Fixation, Honeycomb Cheesecake and Apple Crumble Pie, drizzled in chocolate and caramel sauces. Served with toffylosis, vanilla ice cream and 100's and 1000's."
+                    }
+                ]
+            },
+            {
+                "name": "Celebration Sundaes",
+                "products": [
+                    {
+                        "name": "Ultimate Birthday Cake Sundae",
+                        "price": 12,
+                        "calories": 942,
+                        "description": "Vanilla ice cream covered in fresh strawberries, drizzled with strawberry sauce, topped with whipped cream and a slice of Fridays' Legendary Birthday Cake."
+                    },
+                    {
+                        "name": "Salted Caramel & Chocolate Brownie Sundae",
+                        "price": 12,
+                        "calories": 969,
+                        "description": "Vanilla ice cream, Oreo pieces and chocolate brownie, covered in chocolate sauce, salted caramel, topped with whipped cream, waffle cone and finished with even more chocolate."
+                    },
+                    {
+                        "name": "Passion Fruit Rum Sundae",
+                        "price": 12,
+                        "calories": 521,
+                        "description": "Diced pineapple pieces infused with Dead Man's Fingers Raspberry Rum, with passion fruit sorbet, crushed meringue, pineapple puree and whipped cream. Topped with candyfloss, waffle cone and served with two shots of Prosecco."
+                    },
+                    {
+                        "name": "Cookie Bits S'mores Sundae",
+                        "price": 12,
+                        "calories": 977,
+                        "description": "Vanilla ice cream covered with banana, Oreo pieces, chocolate buttons and topped with whipped cream, waffle cone and drizzled with chocolate sauce."
+                    }
+                ]
+            },
+            {
+                "name": "Shakes",
+                "products": [
+                    {
+                        "name": "Belgian Choc",
+                        "price": 7.5,
+                        "calories": 630,
+                        "description": "Belgian chocolate sauce, milk, vanilla ice cream, whipped cream."
+                    },
+                    {
+                        "name": "Biscoff",
+                        "price": 7.5,
+                        "calories": 512,
+                        "description": "Biscoff sauce, milk, vanilla ice cream, whipped cream."
+                    },
+                    {
+                        "name": "Oreo Cookies & Cream",
+                        "price": 7.5,
+                        "calories": 521,
+                        "description": "Oreo crumb, milk, vanilla ice cream, whipped cream."
+                    },
+                    {
+                        "name": "Rocky Road",
+                        "price": 7.5,
+                        "calories": 630,
+                        "description": "Caramel sauce, chocolate sauce, Oreo crumb, marshmallows, milk, vanilla ice cream, whipped cream."
+                    },
+                    {
+                        "name": "Salted Caramel",
+                        "price": 7.5,
+                        "calories": 541,
+                        "description": "Salted caramel sauce, milk, vanilla ice cream, whipped cream."
+                    }
+                ]
+            },
+            {
+                "name": "More Ice Cream",
+                "products": [
+                    {
+                        "name": "S'mores Sundae",
+                        "price": 8,
+                        "calories": 736,
+                        "description": "Crunchy Biscoff biscuit pieces, crumbled chocolate flake and a caramelised 'Biscoff' sauce, between layers of vanilla ice cream with a tosted marshmallow topping."
+                    },
+                    {
+                        "name": "Fresh Fruit & Orange Sorbet Sundae",
+                        "price": 7.8,
+                        "calories": 301,
+                        "description": "Frozen orange sorbet served with fresh fruit and seasonal berries."
+                    }
+                ]
+            },
+            {
+                "name": "APPETIZERS",
+                "products": [
+                    {
+                        "name": "Mozzarella Dippers",
+                        "price": 9.4,
+                        "calories": 598
+                    },
+                    {
+                        "name": "Fridays™ Corn Dogs",
+                        "description": "Beechwood smoked hotdogs in crispy batter, drizzled with mustard and ketchup, served with a chip dip",
+                        "price": 9.8
+                    },
+                    {
+                        "name": "Lightly Spiced Shrimp",
+                        "price": 9.8
+                    },
+                    {
+                        "name": "Tossed in Fridays™ Legendary Glaze",
+                        "description": "Mozzarella Dippers/Fridays™ Sesame Chicken Strips topped with toasted sesame seeds and chilli flakes. A Fridays™ favourite made with plant-based chicken £9.40",
+                        "price": 9.9
+                    },
+                    {
+                        "name": "Mac & Cheese Bites",
+                        "price": 8.9,
+                        "calories": 730,
+                        "modifiers": [
+                            {
+                                "name": "Flavour",
+                                "options": [
+                                    {
+                                        "name": "Buffalo",
+                                        "calories": 761
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Garlic & Chilli King Prawns",
+                        "price": 9.8,
+                        "calories": 400
+                    },
+                    {
+                        "name": "Houmous Topped with Guacamole",
+                        "description": "Houmous topped with guacamole, pomegranate, toasted sesame seeds and chilli flakes with corn tortillas for dipping",
+                        "price": 8.3,
+                        "calories": 364
+                    }
+                ]
+            },
+            {
+                "name": "SIDES & SAUCES",
+                "products": [
+                    {
+                        "name": "House Fries",
+                        "price": 4.9,
+                        "calories": 458
+                    },
+                    {
+                        "name": "Cajun Spiced Onion Rings",
+                        "price": 6.2,
+                        "calories": 420
+                    },
+                    {
+                        "name": "Halloumi Sticks",
+                        "price": 5.2,
+                        "calories": 506
+                    },
+                    {
+                        "name": "Garlic Mash",
+                        "price": 5.2
+                    },
+                    {
+                        "name": "Garlic Ciabatta Bread",
+                        "description": "Go cheesy! Per slice",
+                        "price": 6.2,
+                        "calories": 426,
+                        "modifiers": [
+                            {
+                                "name": "Add-on",
+                                "options": [
+                                    {
+                                        "name": "Cheese",
+                                        "price": 0.8,
+                                        "calories": 471
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "House Salad",
+                        "price": 4.7
+                    },
+                    {
+                        "name": "Invisible Fries",
+                        "price": 3.5
+                    },
+                    {
+                        "name": "Tiger Fries",
+                        "description": "Rich beef chilli loaded over our House and Sweet Potato Fries, topped with cheese sauce, crispy onions and pickled red onions",
+                        "price": 9.4
+                    },
+                    {
+                        "name": "Tex-Mex Duros",
+                        "description": "Crispy bites served with fresh salsa",
+                        "price": 2.6,
+                        "calories": 567
+                    },
+                    {
+                        "name": "Sweet Potato Fries",
+                        "price": 6.2,
+                        "calories": 376,
+                        "modifiers": [
+                            {
+                                "name": "Sauce",
+                                "options": [
+                                    {
+                                        "name": "Cheese & Maple Bacon Loaded",
+                                        "price": 2.6
+                                    },
+                                    {
+                                        "name": "Plant-Based Loaded",
+                                        "price": 2.6
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Burgers",
+                "products": [
+                    {
+                        "name": "NEW Fridays™ Messy Cheeseburger",
+                        "description": "100% beef patty dripping with melted cheese. Served on a brioche style bun. Mayo, tomato, pickled red onions with Friday's barbecue glaze on the side.",
+                        "calories": 1610,
+                        "price": 16.1,
+                        "modifiers": [
+                            {
+                                "name": "Upgrade your fries",
+                                "options": [
+                                    {
+                                        "name": "Sweet Potato Fries",
+                                        "price": 2,
+                                        "calories": 490
+                                    },
+                                    {
+                                        "name": "Cheese & Maple Bacon Loaded Fries",
+                                        "price": 2.9,
+                                        "calories": 540
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "NEW Deluxe Wagyu Burger",
+                        "description": "The luxury burger. 6oz patty made with the finest wagyu beef, topped with grilled mushrooms, caramelised onions, melted Monterey Jack cheese, served with Friday’s beef dip on the side.",
+                        "calories": 2240,
+                        "price": 24.4
+                    },
+                    {
+                        "name": "Fridays™ Glazed Double Stack Burger",
+                        "description": "Two 100% beef patties coated in our Fridays™ Legendary Glaze, Monterey Jack cheese, crispy bacon. Served on a brioche style bun, mayo, tomato, and pickled red onions and extra Fridays™ Legendary Glaze on the side.",
+                        "calories": 2110,
+                        "price": 21.6
+                    },
+                    {
+                        "name": "Ultimate Cheese Dipper",
+                        "description": "Two 100% beef patties with cheese, lettuce, tomato, vodka pickled onions, crispy bacon, with chipotle mayo. Fridays™ Burger Mayo on the side.",
+                        "calories": 2240,
+                        "price": 22.4
+                    }
+                ]
+            },
+            {
+                "name": "Sides",
+                "products": [
+                    {
+                        "name": "Cajun Spiced Onion Rings",
+                        "calories": 420,
+                        "price": 6.2
+                    }
+                ]
+            },
+            {
+                "name": "FRIDAYS™ LOADED POTATO SKINS",
+                "products": [
+                    {
+                        "name": "Cheese & Maple Bacon",
+                        "description": "Loaded with melted Colby cheese, topped with maple bacon and served with sour cream on the side",
+                        "calories": 1560,
+                        "price": 15.6
+                    },
+                    {
+                        "name": "Plant-Based Cheese & Bacon",
+                        "description": "Loaded with plant-based bacon pieces, vegan cheese and served with avocado and lime dressing for dipping",
+                        "calories": 1560,
+                        "price": 15.6,
+                        "allergies": [
+                            "vegan"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "NACHOS",
+                "products": [
+                    {
+                        "name": "Cheese Nachos",
+                        "description": "Corn tortillas topped with cheese, pickled jalapeños, guacamole, fresh salsa and drizzled with sour cream",
+                        "calories": 1500,
+                        "price": 15.9
+                    },
+                    {
+                        "name": "Plant-Based Chicken Nachos",
+                        "description": "Corn tortillas topped with plant-based chicken pieces, tossed in spicy habanero relish. Served with smoked Applewood cheese, pickled jalapeños, guacamole and fresh salsa, drizzled with avocado and lime dressing",
+                        "calories": 1500,
+                        "price": 15.9,
+                        "allergies": [
+                            "vegan"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "TACOS",
+                "products": [
+                    {
+                        "name": "Chicken",
+                        "description": "Two soft taco crusts filled with grilled garlic and lemon chicken, crunchy lettuce, mature cheddar cheese, pico de gallo mix, pineapple, coriander, lime and chipotle glaze",
+                        "calories": 1030,
+                        "price": 12
+                    },
+                    {
+                        "name": "Meatless Chicken",
+                        "description": "Two soft toasted tacos filled with plant-based chicken, dressed in spicy habanero relish. Topped with avocado and lime dressing, pico de gallo, crunchy lettuce, pickled red onions and coriander",
+                        "calories": 1030,
+                        "price": 12
+                    }
+                ]
+            },
+            {
+                "name": "WINGS",
+                "products": [
+                    {
+                        "name": "Fridays™ Wings",
+                        "description": "Chicken wings tossed in our Fridays™ Legendary Glaze, topped with toasted sesame seeds and chilli flakes",
+                        "calories": 205,
+                        "price": 9.95
+                    },
+                    {
+                        "name": "Hoisin Wings",
+                        "description": "Chicken wings tossed in a rich, sticky hoisin sauce, served with fresh lime",
+                        "calories": 905,
+                        "price": 16.6
+                    },
+                    {
+                        "name": "Hot Wings",
+                        "description": "Chicken wings tossed in Frank’s RedHot sauce with celery sticks and a blue cheese dip",
+                        "calories": 905,
+                        "price": 16.6
+                    },
+                    {
+                        "name": "Boneless Hot Wings",
+                        "description": "Crispy chicken breast chunks tossed in Frank’s RedHot sauce with a blue cheese dip",
+                        "calories": 905,
+                        "price": 16.6,
+                        "modifiers": [
+                            {
+                                "name": "Extra dips",
+                                "options": [
+                                    {
+                                        "name": "Garlic Aioli",
+                                        "calories": 150
+                                    },
+                                    {
+                                        "name": "BBQ Sauce",
+                                        "calories": 150
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "GRILLS",
+                "products": [
+                    {
+                        "name": "Cajun Bacon Chop 18.50",
+                        "description": "Thick cut bacon chop, coated in Cajun seasoning, garlic butter and flamed to perfection. Served with a grilled tomato, crispy garlic potatoes, corn on the cob, dip to add and Fridays®' dip of the side stack.",
+                        "price": 18.5,
+                        "modifiers": [
+                            {
+                                "name": "Extras",
+                                "options": [
+                                    {
+                                        "name": "half rack",
+                                        "price": 2.3
+                                    },
+                                    {
+                                        "name": "full rack",
+                                        "price": 4.3
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Ultimate Ribs",
+                        "description": "Our ribs are marinated and slow-cooked before being flame grilled to order for a true BBQ finish.",
+                        "price": 18.5,
+                        "modifiers": [
+                            {
+                                "name": "Extras",
+                                "options": [
+                                    {
+                                        "name": "half rack",
+                                        "price": 7
+                                    },
+                                    {
+                                        "name": "full rack",
+                                        "price": 9
+                                    }
+                                ]
+                            }
+                        ],
+                        "allergies": [
+                            "gluten-free"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "STEAKS",
+                "products": [
+                    {
+                        "name": "New York Strip 26.50",
+                        "description": "Prime centre-cut sirloin steak seasoned with steak rub and flame grilled to your liking. Served with a grilled tomato, flat cap mushroom, House Fries and your choice of sauce from the steak sauce list.",
+                        "price": 26.5
+                    },
+                    {
+                        "name": "Steak Frites 23.40",
+                        "description": "8oz rump steak seasoned with steak rub and flame grilled to your liking. Served with a grilled tomato, flat cap mushroom, House Fries and garlic butter top slick.",
+                        "price": 23.4
+                    }
+                ]
+            },
+            {
+                "name": "CHICKEN",
+                "products": [
+                    {
+                        "name": "Chicken Fingers 17.20",
+                        "description": "Crispy chicken breast tenders with BBQ sauce and honey mustard mayo, served with your choice of side.",
+                        "price": 17.2,
+                        "calories": 250
+                    },
+                    {
+                        "name": "Wall-to-Wall Chicken 24.50",
+                        "description": "Fridays®' Sesame Chicken Strips, Chicken Fingers, Boneless Hot Wings and BBQ Wings, served with our Fridays®' Legendary Glaze, honey mustard dressing and a blue cheese dip.",
+                        "price": 24.5,
+                        "calories": 360
+                    },
+                    {
+                        "name": "Meatless Fridays®' Sesame Strips 19.70",
+                        "description": "Tossed in our Fridays®' Legendary Glaze, topped with toasted sesame seeds and chilli flakes. Fridays®' favourite made with plant-based chicken, served with your choice of side.",
+                        "price": 19.7,
+                        "calories": 260,
+                        "allergies": [
+                            "vegan"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "TEX-MEX",
+                "products": [
+                    {
+                        "name": "Tex-Mex Salad 10.80",
+                        "description": "Diced smoked chipotle salmon and tortillas tossed with guacamole, pre-gala, grape, sweetcorn and coriander. Served with a spicy Tex-Mex dressing, drizzled with lime and avocado.",
+                        "price": 10.8,
+                        "allergies": [
+                            "gluten-free"
+                        ],
+                        "modifiers": [
+                            {
+                                "name": "Extras",
+                                "options": [
+                                    {
+                                        "name": "Add Grilled Plain Chicken",
+                                        "price": 1.8
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Chilli Chimichangas",
+                        "description": "Rich beef chilli wrapped in a crispy fried flour tortilla with rice, refried beans, Monterey jack cheese, pico de gallo and coriander. Served with a spicy Tex-Mex dressing and sour cream.",
+                        "price": 18.5,
+                        "calories": 590
+                    },
+                    {
+                        "name": "Chicken Quesadillas 17.70",
+                        "description": "Blackened chicken with onion, peppers, lime, coriander, Colby & Monterey jack cheese. Served with chilli cream and pico de gallo, wrapped in a large tortilla with your choice of side.",
+                        "price": 17.7,
+                        "calories": 560
+                    }
+                ]
+            },
+            {
+                "name": "SIZZLING FAJITAS",
+                "products": [
+                    {
+                        "name": "Cajun Spiced Chicken 18.70",
+                        "description": "Served with guacamole, fresh salsa and cheese, topped with sour cream and coriander, with soft flour tortillas on the side.",
+                        "price": 18.7,
+                        "calories": 510
+                    },
+                    {
+                        "name": "Meatless Chicken 18.70",
+                        "description": "Plant-based chicken served with guacamole, fresh salsa, marinara, topped with avocado and lime dressing, coriander, with soft flour tortillas on the side.",
+                        "price": 18.7,
+                        "calories": 480,
+                        "allergies": [
+                            "vegan"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

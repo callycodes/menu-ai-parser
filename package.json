@@ -1,0 +1,29 @@
+{
+  "name": "menu-ai-parser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/callycodes/menu-ai-parser.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/callycodes/menu-ai-parser/issues"
+  },
+  "homepage": "https://github.com/callycodes/menu-ai-parser#readme",
+  "dependencies": {
+    "aws-sdk": "^2.1537.0",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "fs": "^0.0.1-security",
+    "multer": "^1.4.5-lts.1",
+    "openai": "^4.24.7",
+    "pdf2image": "^1.2.3",
+    "pdf2pic": "^3.1.0",
+    "sharp": "^0.33.2"
+  }
+}

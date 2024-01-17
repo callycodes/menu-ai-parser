@@ -1,0 +1,366 @@
+{
+    "success": true,
+    "data": {
+        "name": "The Swan Inn Olney Menu",
+        "categories": [
+            {
+                "name": "Small Plates",
+                "products": [
+                    {
+                        "name": "SMOKED SALMON & KING PRAWNS",
+                        "description": "served with horseradish cream and lime vinaigrette",
+                        "allergies": [
+                            "gluten-free"
+                        ],
+                        "price": 8
+                    },
+                    {
+                        "name": "LOCAL BRIXWORTH PATE",
+                        "description": "served with toast and a fig chutney",
+                        "allergies": [
+                            "gluten-free"
+                        ],
+                        "price": 7.5
+                    },
+                    {
+                        "name": "GRILLED GOATS CHEESE",
+                        "description": "served on roasted heritage beetroot and sprinkled with toasted walnuts",
+                        "allergies": [
+                            "gluten-free"
+                        ],
+                        "price": 7.5
+                    },
+                    {
+                        "name": "BURRATA",
+                        "description": "served with vine tomatoes, aged balsamic and basil",
+                        "allergies": [
+                            "vegetarian"
+                        ],
+                        "price": 8.75
+                    },
+                    {
+                        "name": "SALT AND PEPPER SQUID",
+                        "description": "with a sweet chilli sauce",
+                        "price": 8
+                    },
+                    {
+                        "name": "FRENCH ONION SOUP",
+                        "description": "with a cheese croute",
+                        "allergies": [
+                            "vegetarian",
+                            "gluten-free"
+                        ],
+                        "price": 7.5
+                    },
+                    {
+                        "name": "SMOKED SALMON AND CHIVE FISHCAKES",
+                        "description": "with dressed salad & tartare sauce",
+                        "price": 8
+                    }
+                ]
+            },
+            {
+                "name": "Nibbles & Sides",
+                "products": [
+                    {
+                        "name": "GARLIC BREAD NACHOS",
+                        "description": "with a side of guacamole",
+                        "price": 6.5
+                    },
+                    {
+                        "name": "OUR ROSEMARY & SEA SALT FOCACCIA",
+                        "description": "balsamic dressing & mixed olives",
+                        "allergies": [
+                            "vegetarian"
+                        ],
+                        "price": 6.5
+                    },
+                    {
+                        "name": "HOT CHORIZO",
+                        "description": "with sourdough",
+                        "allergies": [
+                            "gluten-free"
+                        ],
+                        "price": 6.5
+                    },
+                    {
+                        "name": "DEVILLED WHITEBAIT",
+                        "description": "served with a sriracha mayonnaise",
+                        "price": 6.5
+                    },
+                    {
+                        "name": "CRISPY FRIED VEGETABLE GYOZAS",
+                        "description": "with sweet chilli sauce",
+                        "allergies": [
+                            "vegan"
+                        ],
+                        "price": 6.5
+                    },
+                    {
+                        "name": "STICKY CHICKEN POPCORN",
+                        "description": "with sesame seeds and spring onions",
+                        "price": 6.5
+                    },
+                    {
+                        "name": "HALLOUMI SAGANAKI",
+                        "description": "in semolina, honey & sesame seeds",
+                        "allergies": [
+                            "vegetarian"
+                        ],
+                        "price": 6.5
+                    },
+                    {
+                        "name": "PARMESAN TRUFFLE FRIES",
+                        "description": "",
+                        "allergies": [
+                            "vegetarian"
+                        ],
+                        "price": 4.5
+                    },
+                    {
+                        "name": "BRAVAS PATATAS WITH AIOLI",
+                        "description": "",
+                        "allergies": [
+                            "vegetarian"
+                        ],
+                        "price": 4.5
+                    },
+                    {
+                        "name": "TENDERSTEM BROCCOLI",
+                        "description": "with anchovies and chilli",
+                        "allergies": [
+                            "vegetarian"
+                        ],
+                        "price": 4.5
+                    }
+                ]
+            },
+            {
+                "name": "Burgers",
+                "products": [
+                    {
+                        "name": "MINI BURGER SLIDER BOARD",
+                        "description": "Steak burger with cheese and bacon, salad and mayo. Pork & Chorizo burger with mayo, cheese, salad and pickled red onion. Lamb & Mint burger with salad and garlic mayo",
+                        "price": 15
+                    },
+                    {
+                        "name": "ANGUS STEAK 6OZ",
+                        "description": "with smokey Jack cheese, bacon, mayo & a side of house relish",
+                        "price": 15
+                    },
+                    {
+                        "name": "CHICKEN",
+                        "description": "lightly spiced chicken breast in panko breadcrumbs layered with, salsa, sour cream, jalapenos, lettuce and red onion",
+                        "price": 15
+                    },
+                    {
+                        "name": "LOCAL CURIOUS VEGAN 'SOUTHERN FRIED CHICKEN'",
+                        "description": "Lettuce, jalapenos, vegan mayo & salsa",
+                        "allergies": [
+                            "vegan"
+                        ],
+                        "price": 15
+                    },
+                    {
+                        "name": "HALLOUMI",
+                        "description": "Halloumi cheese, garlic mushrooms, roasted red peppers & harissa mayo",
+                        "allergies": [
+                            "vegetarian"
+                        ],
+                        "price": 15
+                    }
+                ],
+                "modifiers": [
+                    {
+                        "name": "SOMETHING ON THE SIDE?",
+                        "options": [
+                            {
+                                "name": "Chips or fries?",
+                                "price": 2.65
+                            },
+                            {
+                                "name": "Large",
+                                "price": 3.7
+                            },
+                            {
+                                "name": "Add cheese",
+                                "price": 1
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "House Dishes",
+                "products": [
+                    {
+                        "name": "Coq Au Vin",
+                        "description": "Rustic chicken in red wine with pancetta and mushrooms. Served with creamy mash and spring vegetables.",
+                        "price": 15
+                    },
+                    {
+                        "name": "28 Day Aged Rump Steak",
+                        "description": "Served with roasted cherry vine tomatoes, chestnut mushrooms, peppercorn sauce and fries or chunky chips",
+                        "allergies": [
+                            "gluten-free"
+                        ],
+                        "price": 18
+                    },
+                    {
+                        "name": "Our Beef Lasagne",
+                        "description": "Served with garlic bread and dressed salad",
+                        "price": 14
+                    },
+                    {
+                        "name": "Cauliflower & Aubergine Curry",
+                        "description": "With sweet potato and served with cardamom rice & our coriander spiced onion bhaji",
+                        "allergies": [
+                            "vegan"
+                        ],
+                        "price": 15
+                    },
+                    {
+                        "name": "Panko Parmesan Chicken",
+                        "description": "With lemon and garlic butter, dressed salad and fries",
+                        "price": 14
+                    }
+                ]
+            },
+            {
+                "name": "Sweets",
+                "products": [
+                    {
+                        "name": "Honeycomb Cheesecake",
+                        "description": "With biscotti sauce",
+                        "price": 7.5
+                    },
+                    {
+                        "name": "Lemon Tart",
+                        "description": "With raspberry cheesecake ice cream",
+                        "price": 7.5
+                    },
+                    {
+                        "name": "Sticky Toffee Pudding",
+                        "description": "With Vanilla Bean ice cream",
+                        "price": 7.5
+                    },
+                    {
+                        "name": "Warm Chocolate Brownie",
+                        "description": "With Salted caramel ice cream",
+                        "price": 7.5
+                    },
+                    {
+                        "name": "Orange & Cardamon Creme Brulee",
+                        "description": "With coconut ice cream",
+                        "price": 7.5
+                    },
+                    {
+                        "name": "This Weeks Selection Of Cheese",
+                        "description": "From our friends at Harvest Deli",
+                        "price": 9.5
+                    },
+                    {
+                        "name": "Yorkshire Ice Cream",
+                        "description": "Choose from: Vanilla Bean, Strawberries & Cream, Salted Caramel, Coconut, Vegan Vanilla Bean, Banoffee, Raspberry cheesecake, Double Chocolate Chip, Lemon Sorbet & Passionfruit Sorbet",
+                        "price": 2.5
+                    }
+                ]
+            },
+            {
+                "name": "Pub Favourites",
+                "products": [
+                    {
+                        "name": "Haddock & Chips",
+                        "description": "Our local Swan ale beer batter served with mushy peas",
+                        "price": 15.5
+                    },
+                    {
+                        "name": "Quick Fried Lambs Liver",
+                        "description": "With crispy bacon on mash with onion gravy and spring greens",
+                        "allergies": [
+                            "gluten-free"
+                        ],
+                        "price": 16
+                    },
+                    {
+                        "name": "Butchers Cumberland Sausages",
+                        "description": "Served with creamy mash, Spring vegetables and onion gravy",
+                        "price": 13.5
+                    },
+                    {
+                        "name": "Wholetail Scampi",
+                        "description": "With chips, salad, a lemon wedge & Tartare sauce",
+                        "price": 14.5
+                    },
+                    {
+                        "name": "Caesar Salad",
+                        "description": "Romaine, Caesar dressing, Burford brown egg, rock salt baked croutons & Parmesan",
+                        "price": 9,
+                        "modifiers": [
+                            {
+                                "name": "Add-ons",
+                                "options": [
+                                    {
+                                        "name": "Add Chargrilled Chicken & Bacon",
+                                        "price": 6
+                                    },
+                                    {
+                                        "name": "Add King Prawns",
+                                        "price": 6
+                                    },
+                                    {
+                                        "name": "Add Fried Halloumi",
+                                        "price": 5
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Children's Menu",
+                "products": [
+                    {
+                        "name": "Chicken Popcorn, Fries & Baked Beans",
+                        "price": 7
+                    },
+                    {
+                        "name": "Plain Burger, Fries & Baked Beans",
+                        "price": 7
+                    },
+                    {
+                        "name": "Fish Fingers, Fries & Baked Beans",
+                        "price": 7
+                    }
+                ]
+            },
+            {
+                "name": "Toasted Ciabattas",
+                "description": "Available until 2pm Monday - Thursday & 2.30pm Friday & Saturday and Served with fries.",
+                "products": [
+                    {
+                        "name": "Seared Steak",
+                        "description": "With caramelised onions & wholegrain mustard",
+                        "price": 10
+                    },
+                    {
+                        "name": "Chargrilled Chicken, Bacon And Avocado",
+                        "description": "With Tarragon mayonnaise",
+                        "price": 9.5
+                    },
+                    {
+                        "name": "Fish Finger On Homemade Tartare",
+                        "description": "With rocket",
+                        "price": 8
+                    },
+                    {
+                        "name": "Halloumi",
+                        "description": "With garlic mushrooms, roasted red peppers and harissa mayo.",
+                        "price": 8
+                    }
+                ]
+            }
+        ]
+    }
+}

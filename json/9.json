@@ -1,0 +1,64 @@
+{
+  "menus": [
+    {
+      "name": "THURSDAY NIGHT BRUNCH",
+      "categories": [
+        {
+          "name": "Choose one dish from:",
+          "products": [
+            {
+              "name": "Chicken Gyros",
+              "description": "Marinated Greek style chicken with lettuce, tomato & onion salad, wrapped in khobez bread with fries and tzatziki."
+            },
+            {
+              "name": "Halloumi Gyros",
+              "description": "Halloumi pieces served with lettuce, tomato & onion salad, wrapped in khobez bread with fries and tzatziki.",
+              "allergies": ["vege"]
+            },
+            {
+              "name": "Mixed Gyros",
+              "description": "Halloumi pieces served with lettuce, tomato & onion salad, wrapped in khobez bread with fries and tzatziki.",
+              "price": 2
+            },
+            {
+              "name": "Jackfruit Gyros",
+              "description": "Jackfruit with lettuce, tomato & onion salad, wrapped in khobez bread with fries and tzatziki.",
+              "allergies": ["vege"]
+            }
+          ]
+        },
+        {
+          "name": "Plus",
+          "products": [
+            {
+              "name": "Bottomless Drinks",
+              "modifiers": [
+                {
+                  "name": "Drink Options",
+                  "options": [
+                    {
+                      "name": "Hugo Spritz"
+                    },
+                    {
+                      "name": "Bottled Mythos"
+                    },
+                    {
+                      "name": "Fizz"
+                    },
+                    {
+                      "name": "Vodka Mixer"
+                    },
+                    {
+                      "name": "Gin Mixer"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "description": "Choose one dish from a selection with the option to add bottomless drinks."
+    }
+  ]
+}

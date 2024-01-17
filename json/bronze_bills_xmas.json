@@ -1,0 +1,124 @@
+{
+    "success": true,
+    "data": {
+        "menus": [
+            {
+                "name": "Bill's Christmas Menu",
+                "description": "3 courses",
+                "categories": [
+                    {
+                        "name": "Sides",
+                        "products": [
+                            {
+                                "name": "Pigs in Blankets",
+                                "price": 5.25
+                            },
+                            {
+                                "name": "Roast Potatoes",
+                                "allergies": [
+                                    "vege"
+                                ],
+                                "price": 3.95
+                            },
+                            {
+                                "name": "Seasonal Greens & Roast Squash",
+                                "allergies": [
+                                    "vege"
+                                ],
+                                "price": 3.95
+                            }
+                        ]
+                    }
+                ],
+                "courses": [
+                    {
+                        "title": "Starters",
+                        "options": [
+                            {
+                                "name": "King Prawn Cocktail",
+                                "description": "A tower of smoked salmon pâté, king prawns & spicy avo salad"
+                            },
+                            {
+                                "name": "Spiced Parsnip & Celeriac Soup",
+                                "description": "Topped with crème fraîche, croutons & toasted pumpkin seeds",
+                                "allergies": [
+                                    "vege"
+                                ]
+                            },
+                            {
+                                "name": "Pork & Caperberry Rillette",
+                                "description": "Served with house pickles, cranberries & toasted flatbread"
+                            },
+                            {
+                                "name": "Roast Beetroot, Cranberry & Apple Salad",
+                                "description": "With whipped vegan feta & date molasses",
+                                "allergies": [
+                                    "vege",
+                                    "vegan"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Mains",
+                        "options": [
+                            {
+                                "name": "Pancetta Wrapped Turkey",
+                                "description": "With Cumberland stuffing & served with a pig in blanket, roast potatoes, seasonal greens, maple and thyme roasted root veg & red wine gravy"
+                            },
+                            {
+                                "name": "Salmon & Saffron",
+                                "description": "Pan fried salmon with saffron & lemon cream sauce, buttered spinach & chive mash"
+                            },
+                            {
+                                "name": "Sirloin This Christmas",
+                                "price": 4,
+                                "description": "8oz sirloin steak, with creamy pink peppercorn sauce & skin on rosemary fries"
+                            },
+                            {
+                                "name": "Santa's Burger Stack",
+                                "description": "Stacked with sausage patties, streaky bacon, cranberry ketchup, sage & onion mayo & crispy fried onions. Served with rosemary fries & a pan of truffle gravy for dunking"
+                            },
+                            {
+                                "name": "Give it Some Welly",
+                                "description": "Plant-based wellington filled with cranberry, apricot & orange stuffing. Wrapped in puff pastry & served with seasonal greens, roast squash & gravy",
+                                "allergies": [
+                                    "vegan"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Desserts",
+                        "options": [
+                            {
+                                "name": "Sticky Toffee Pudding",
+                                "description": "Warmed with salted caramel sauce & clotted cream ice cream",
+                                "allergies": [
+                                    "vege"
+                                ]
+                            },
+                            {
+                                "name": "Black Forest Chocolate Tart",
+                                "description": "Black cherry compote, kirsch & vegan crème fraîche",
+                                "allergies": [
+                                    "vege",
+                                    "vegan"
+                                ]
+                            },
+                            {
+                                "name": "White Chocolate Snowball",
+                                "description": "Layered with brownie pieces, mandarin, white chocolate mousse & Cointreau"
+                            },
+                            {
+                                "name": "Ogleshiel Cheese & Oatcakes",
+                                "description": "Ogleshiel, oatcakes, apple & roast onion chutney"
+                            }
+                        ]
+                    }
+                ],
+                "price": 32.95
+            }
+        ]
+    }
+}

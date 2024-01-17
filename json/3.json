@@ -1,0 +1,146 @@
+{
+  "menus": [
+    {
+      "name": "FRIDAYS™ GRILL",
+      "categories": [
+        {
+          "name": "GRILLS",
+          "products": [
+            {
+              "name": "Cajun Bacon Chop 18.50",
+              "description": "Thick cut bacon chop, coated in Cajun seasoning, garlic butter and flamed to perfection. Served with a grilled tomato, crispy garlic potatoes, corn on the cob, dip to add and Fridays®' dip of the side stack.",
+              "price": 18.50,
+              "modifiers": [
+                {
+                  "name": "Extras",
+                  "options": [
+                    {
+                      "name": "half rack",
+                      "price": 2.30
+                    },
+                    {
+                      "name": "full rack",
+                      "price": 4.30
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Ultimate Ribs",
+              "description": "Our ribs are marinated and slow-cooked before being flame grilled to order for a true BBQ finish.",
+              "price": 18.50,
+              "modifiers": [
+                {
+                  "name": "Extras",
+                  "options": [
+                    {
+                      "name": "half rack",
+                      "price": 7.00
+                    },
+                    {
+                      "name": "full rack",
+                      "price": 9.00
+                    }
+                  ]
+                }
+              ],
+              "allergies": ["gluten-free"]
+            }
+          ]
+        },
+        {
+          "name": "STEAKS",
+          "products": [
+            {
+              "name": "New York Strip 26.50",
+              "description": "Prime centre-cut sirloin steak seasoned with steak rub and flame grilled to your liking. Served with a grilled tomato, flat cap mushroom, House Fries and your choice of sauce from the steak sauce list.",
+              "price": 26.50
+            },
+            {
+              "name": "Steak Frites 23.40",
+              "description": "8oz rump steak seasoned with steak rub and flame grilled to your liking. Served with a grilled tomato, flat cap mushroom, House Fries and garlic butter top slick.",
+              "price": 23.40
+            }
+          ]
+        },
+        {
+          "name": "CHICKEN",
+          "products": [
+            {
+              "name": "Chicken Fingers 17.20",
+              "description": "Crispy chicken breast tenders with BBQ sauce and honey mustard mayo, served with your choice of side.",
+              "price": 17.20,
+              "calories": 250
+            },
+            {
+              "name": "Wall-to-Wall Chicken 24.50",
+              "description": "Fridays®' Sesame Chicken Strips, Chicken Fingers, Boneless Hot Wings and BBQ Wings, served with our Fridays®' Legendary Glaze, honey mustard dressing and a blue cheese dip.",
+              "price": 24.50,
+              "calories": 360
+            },
+            {
+              "name": "Meatless Fridays®' Sesame Strips 19.70",
+              "description": "Tossed in our Fridays®' Legendary Glaze, topped with toasted sesame seeds and chilli flakes. Fridays®' favourite made with plant-based chicken, served with your choice of side.",
+              "price": 19.70,
+              "calories": 260,
+              "allergies": ["vegan"]
+            }
+          ]
+        },
+        {
+          "name": "TEX-MEX",
+          "products": [
+            {
+              "name": "Tex-Mex Salad 10.80",
+              "description": "Diced smoked chipotle salmon and tortillas tossed with guacamole, pre-gala, grape, sweetcorn and coriander. Served with a spicy Tex-Mex dressing, drizzled with lime and avocado.",
+              "price": 10.80,
+              "allergies": ["gluten-free"],
+              "modifiers": [
+                {
+                  "name": "Extras",
+                  "options": [
+                    {
+                      "name": "Add Grilled Plain Chicken",
+                      "price": 1.80
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Chilli Chimichangas",
+              "description": "Rich beef chilli wrapped in a crispy fried flour tortilla with rice, refried beans, Monterey jack cheese, pico de gallo and coriander. Served with a spicy Tex-Mex dressing and sour cream.",
+              "price": 18.50,
+              "calories": 590
+            },
+            {
+              "name": "Chicken Quesadillas 17.70",
+              "description": "Blackened chicken with onion, peppers, lime, coriander, Colby & Monterey jack cheese. Served with chilli cream and pico de gallo, wrapped in a large tortilla with your choice of side.",
+              "price": 17.70,
+              "calories": 560
+            }
+          ]
+        },
+        {
+          "name": "SIZZLING FAJITAS",
+          "products": [
+            {
+              "name": "Cajun Spiced Chicken 18.70",
+              "description": "Served with guacamole, fresh salsa and cheese, topped with sour cream and coriander, with soft flour tortillas on the side.",
+              "price": 18.70,
+              "calories": 510
+            },
+            {
+              "name": "Meatless Chicken 18.70",
+              "description": "Plant-based chicken served with guacamole, fresh salsa, marinara, topped with avocado and lime dressing, coriander, with soft flour tortillas on the side.",
+              "price": 18.70,
+              "calories": 480,
+              "allergies": ["vegan"]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

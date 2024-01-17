@@ -1,0 +1,127 @@
+{
+    "success": true,
+    "data": {
+        "menus": [
+            {
+                "name": "Menu de Noël",
+                "categories": [],
+                "courses": [
+                    {
+                        "title": "Starters",
+                        "options": [
+                            {
+                                "name": "Parsnip Soup",
+                                "description": "With chestnut, pear, parsley & white truffle oil, served with toasted sourdough baguette",
+                                "calories": 324,
+                                "allergies": [
+                                    "vege"
+                                ]
+                            },
+                            {
+                                "name": "Smoked Salmon Tartare",
+                                "description": "On marinated beetroot with citrus crème fraîche & dill, served with toasted sourdough baguette",
+                                "calories": 414
+                            },
+                            {
+                                "name": "Duck Rillettes",
+                                "description": "Shredded, slow-cooked duck with wholegrain mustard, rosemary, cornichons & pickled shallots, served with toasted sourdough baguette",
+                                "calories": 346
+                            },
+                            {
+                                "name": "Pear & Bayonne Ham Salad",
+                                "description": "With golden beetroot, watercress & rosemary croutons, drizzled with a Roquefort dressing & smoked walnuts",
+                                "calories": 284
+                            },
+                            {
+                                "name": "Prawn Thermidor",
+                                "description": "King prawns cooked in a lobster mornay sauce with Comté cheese, an apple & herb garnish & toasted sourdough baguette",
+                                "calories": 233
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Mains",
+                        "options": [
+                            {
+                                "name": "Sea Bream Grenobloise",
+                                "description": "Served with a brown butter, lemon, caper & parsley sauce, creamed potatoes, braised fennel, cherry tomatoes & rosemary croutons",
+                                "calories": 739
+                            },
+                            {
+                                "name": "Butternut Squash Pithivier",
+                                "description": "Mushroom, butternut squash & goat's cheese puff pastry parcel, served with sage gratin dauphinois, braised red cabbage, French beans, Tenderstem broccoli, Chantenay carrots & cranberry jus",
+                                "calories": 919,
+                                "allergies": [
+                                    "vege"
+                                ]
+                            },
+                            {
+                                "name": "Turkey Paupiette",
+                                "description": "British turkey breast with pork & apricot stuffing wrapped in streaky bacon. Served with sage gratin dauphinois, braised red cabbage, French beans, Tenderstem broccoli, Chantenay carrots & cranberry jus",
+                                "calories": 738
+                            },
+                            {
+                                "name": "Mushroom Bourguignon",
+                                "description": "Slow-cooked Façon mushrooms in red wine, vegan bacon, baby onions & Chantenay carrots, with creamed potatoes",
+                                "calories": 681,
+                                "allergies": [
+                                    "vegan"
+                                ]
+                            },
+                            {
+                                "name": "Sirloin",
+                                "description": "Cut, trimmed and prepared in the Côte butchery. Served with frites & watercress. Recommended medium rare",
+                                "calories": 850,
+                                "modifiers": [
+                                    {
+                                        "name": "Supplement",
+                                        "description": "+3.5 supplement",
+                                        "price": 3.5
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Desserts",
+                        "options": [
+                            {
+                                "name": "Pain Perdu",
+                                "description": "A sweet brioche bread pudding with cream, salted caramel sauce & vanilla ice cream",
+                                "calories": 651,
+                                "allergies": [
+                                    "vege"
+                                ]
+                            },
+                            {
+                                "name": "Winter Spiced Crème Brûlée",
+                                "description": "Burnt vanilla cream infused with star anise, cinnamon, ginger & nutmeg, topped with pomegranate seeds",
+                                "calories": 585,
+                                "allergies": [
+                                    "vege"
+                                ]
+                            },
+                            {
+                                "name": "White Chocolate Mousse",
+                                "description": "In a dark chocolate sphere layered with a winter berry compote & freeze-dried raspberries, served with a warm lemon madeleine",
+                                "calories": 518,
+                                "allergies": [
+                                    "vege"
+                                ]
+                            },
+                            {
+                                "name": "Chocolate Salted Caramel Tart",
+                                "description": "With raspberries & vanilla ice cream",
+                                "calories": 397,
+                                "allergies": [
+                                    "vege"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "price": 34.95
+            }
+        ]
+    }
+}

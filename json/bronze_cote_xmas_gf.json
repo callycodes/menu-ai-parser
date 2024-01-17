@@ -1,0 +1,112 @@
+{
+    "success": true,
+    "data": {
+        "menus": [
+            {
+                "name": "Gluten Free Menu de Noël",
+                "description": "Three Courses from £34.95",
+                "categories": [],
+                "courses": [
+                    {
+                        "title": "Starters",
+                        "options": [
+                            {
+                                "name": "Parsnip Soup",
+                                "description": "With chestnut, pear, parsley & white truffle oil, served with gluten free toast",
+                                "calories": 323,
+                                "allergies": [
+                                    "vege"
+                                ]
+                            },
+                            {
+                                "name": "Smoked Salmon Tartare",
+                                "description": "On marinated beetroot, with citrus crème fraîche & dill, served with gluten free toast",
+                                "calories": 413
+                            },
+                            {
+                                "name": "Duck Rillettes",
+                                "description": "Shredded, slow-cooked duck with wholegrain mustard, rosemary, cornichons & pickled shallots, served with gluten free toast",
+                                "calories": 345
+                            },
+                            {
+                                "name": "Pear & Bayonne Ham Salad",
+                                "description": "With golden beetroot & watercress, drizzled with Roquefort dressing & served with gluten free toast",
+                                "calories": 328
+                            },
+                            {
+                                "name": "Prawn Thermidor",
+                                "description": "King prawns cooked in a lobster mornay sauce with Comté cheese, an apple & herb garnish & gluten free toast",
+                                "calories": 232
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Mains",
+                        "options": [
+                            {
+                                "name": "Sea Bream Grenobloise",
+                                "description": "Served with a brown butter, lemon, caper & parsley sauce, creamed potatoes, braised fennel & cherry tomatoes",
+                                "calories": 693
+                            },
+                            {
+                                "name": "Turkey Paupiette",
+                                "description": "British turkey breast with pork & apricot stuffing wrapped in streaky bacon. Served with sage & onion duchois, braised red cabbage, French beans, Tenderstem broccoli, Chantenay carrots & cranberry jus",
+                                "calories": 738
+                            },
+                            {
+                                "name": "Roasted Butternut Squash",
+                                "description": "On a bed of braised lentils in a tomato Provençale sauce, harissa & coconut yoghurt",
+                                "calories": 499,
+                                "allergies": [
+                                    "vegan"
+                                ]
+                            },
+                            {
+                                "name": "Sirloin (8 oz)",
+                                "description": "Cut, trimmed and prepared in the Coté butchery. Served with frites & watercress. Recommended medium rare (+£3.5 supplement)",
+                                "calories": 850,
+                                "price": 3.5
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Desserts",
+                        "options": [
+                            {
+                                "name": "Chocolate Mousse",
+                                "description": "Velvety dark chocolate mousse",
+                                "calories": 583,
+                                "allergies": [
+                                    "vegan"
+                                ]
+                            },
+                            {
+                                "name": "Winter Spiced Crème Brûlée",
+                                "description": "Burnt vanilla custard infused with star anise, cinnamon, ginger & nutmeg, topped with poached clementines & redcurrants",
+                                "calories": 585
+                            },
+                            {
+                                "name": "Cheese Board",
+                                "description": "Morbier, Fourme d'Ambert, Truffled Brie & Tomme de Savoie, red onion jam, fig, grapes & gluten free toast",
+                                "calories": 421
+                            },
+                            {
+                                "name": "Ice Cream & Sorbet",
+                                "description": "3 scoops, ask for today's selection",
+                                "price": 1.16,
+                                "calories": 116,
+                                "modifiers": [
+                                    {
+                                        "name": "Option available",
+                                        "description": "Use this for today's selections"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "price": 34.95
+            }
+        ]
+    }
+}

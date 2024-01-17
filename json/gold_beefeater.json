@@ -1,0 +1,451 @@
+{
+    "success": true,
+    "data": {
+        "name": "Main Menu",
+        "categories": [
+            {
+                "name": "Starters",
+                "products": [
+                    {
+                        "name": "Double-Crunch Chicken Wings",
+                        "price": 6.49,
+                        "description": "Exclusive recipe wings, served with our signature blue cheese sauce"
+                    },
+                    {
+                        "name": "Chicken Goujons",
+                        "price": 5.69,
+                        "calories": 462,
+                        "description": "Breaded Mushrooms, served with BBQ sauce"
+                    },
+                    {
+                        "name": "Prawn Cocktail",
+                        "price": 5.49,
+                        "calories": 450,
+                        "description": "Classic Prawn Cocktail"
+                    },
+                    {
+                        "name": "Crispy Calamari",
+                        "price": 6.49,
+                        "calories": 549,
+                        "description": "With fresh chilli and chunky guacamole, served with our rustic toast"
+                    },
+                    {
+                        "name": "Haloumi Fries",
+                        "price": 5.79,
+                        "calories": 505,
+                        "description": "Layered with cheddar cheese sauce and jalapeño peppers, served with guacamole"
+                    },
+                    {
+                        "name": "Loaded Nachos",
+                        "price": 5.49,
+                        "calories": 675,
+                        "description": "With cheddar cheese sauce, jalapeño peppers, salsa, soured cream and guacamole",
+                        "modifiers": [
+                            {
+                                "name": "Loaded Nachos Options",
+                                "options": [
+                                    {
+                                        "name": "Vegan",
+                                        "price": 0,
+                                        "calories": 573
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Salads",
+                "products": [
+                    {
+                        "name": "Beefeater Cobb Salad",
+                        "price": 13.79,
+                        "modifiers": [
+                            {
+                                "name": "Salad Protein Options",
+                                "options": [
+                                    {
+                                        "name": "Griddled Chicken Breast",
+                                        "calories": 553
+                                    },
+                                    {
+                                        "name": "Half Rotisserie Chicken",
+                                        "calories": 470
+                                    },
+                                    {
+                                        "name": "Griddled Halloumi",
+                                        "calories": 553
+                                    },
+                                    {
+                                        "name": "Reduced-Cal Option",
+                                        "calories": 391
+                                    },
+                                    {
+                                        "name": "Gluten-free Option",
+                                        "calories": 470
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Grills",
+                "products": [
+                    {
+                        "name": "Mixed Grill",
+                        "price": 14.49,
+                        "description": "4oz rump, half a chicken breast, gammon, two pork sausages, served with triple-cooked chips and garden peas or veggie",
+                        "modifiers": [
+                            {
+                                "name": "Grill Upgrades",
+                                "options": [
+                                    {
+                                        "name": "Upgrade to Ribs",
+                                        "price": 3.99
+                                    },
+                                    {
+                                        "name": "Upgrade to 8oz Sirloin Steak",
+                                        "price": 2.99
+                                    },
+                                    {
+                                        "name": "Upgrade to Surf and Steak Topping",
+                                        "price": 5.99
+                                    },
+                                    {
+                                        "name": "Upgrade to Gammon Steak",
+                                        "price": 1.99,
+                                        "calories": 469
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Chargrilled Fillet of Salmon",
+                        "price": 12.49,
+                        "description": "Served with triple-cooked chips and garden peas or veggie"
+                    },
+                    {
+                        "name": "Smokey Paprika Chicken Tendermelt",
+                        "price": 7.49,
+                        "description": "Served with a sweet jalapeño cornbread"
+                    },
+                    {
+                        "name": "Chargrilled Half Chicken",
+                        "price": 7.49,
+                        "calories": 640,
+                        "description": "Served with triple-cooked chips and garden peas or veggie"
+                    },
+                    {
+                        "name": "Chargrilled Vegetable Skewer",
+                        "price": 7.49,
+                        "description": "Served with stonebaked flatbread, spiced rice and your choice of sauce",
+                        "modifiers": [
+                            {
+                                "name": "Sauce Options",
+                                "options": [
+                                    {
+                                        "name": "No Sauce"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Chicken and Ribs",
+                "products": [
+                    {
+                        "name": "BBQ Glazed Pork Ribs",
+                        "price": 11.99,
+                        "calories": 1270,
+                        "description": "Pork Ribs"
+                    },
+                    {
+                        "name": "Chicken & Rib Combo",
+                        "price": 12.99,
+                        "calories": 997,
+                        "description": "Grilled chicken breast combined with half rack of BBQ glazed pork ribs"
+                    },
+                    {
+                        "name": "Beefeater Combo",
+                        "price": 22.69,
+                        "description": "Chicken wings, grilled ½ seasoned chicken breast, and half a rack of 7oz BBQ glazed pork ribs, plus an extra sauce of your choice"
+                    }
+                ]
+            },
+            {
+                "name": "Steaks",
+                "products": [
+                    {
+                        "name": "8oz Fillet",
+                        "price": 21.99,
+                        "calories": 729,
+                        "description": "The most tender and tender of all the steaks"
+                    },
+                    {
+                        "name": "8oz Sirloin",
+                        "price": 16.99,
+                        "calories": 520,
+                        "description": "A great all-rounder, for succulent texture and taste"
+                    },
+                    {
+                        "name": "10oz Ribeye",
+                        "price": 14.99,
+                        "calories": 674,
+                        "description": "The 'flavour' of Ribeye makes this steak full of flavour"
+                    },
+                    {
+                        "name": "Steak Sampler",
+                        "price": 24.49,
+                        "calories": 744,
+                        "description": "Fillet, sirloin and rump, served rare. Includes flat mushroom, roasted tomato, onion rings and triple-cooked chips"
+                    },
+                    {
+                        "name": "Surf & Turf Combo",
+                        "price": 23.49,
+                        "calories": 1049,
+                        "description": "8oz sirloin and king prawns drizzled in garlic & parsley, accompanied with triple-cooked chips and 7 spicy mayo prawns"
+                    }
+                ]
+            },
+            {
+                "name": "Burgers",
+                "products": [
+                    {
+                        "name": "Beefeater Burger",
+                        "price": 12.79,
+                        "calories": 1053,
+                        "description": "¼ lb bacon rasher, smoked bacon, Cheddar cheese, crispy onions and lettuce"
+                    },
+                    {
+                        "name": "Beefeater Double Stack",
+                        "price": 16.29,
+                        "calories": 1420,
+                        "description": "Two ¼ lb burgers and beef burger, 7oz BBQ glazed pork ribs and fried egg"
+                    },
+                    {
+                        "name": "Double-Crunch Chicken",
+                        "price": 6.29,
+                        "calories": 966,
+                        "description": "With our signature chicken bites, seasoned sauce, griddled chicken breast & 7oz BBQ sauce"
+                    },
+                    {
+                        "name": "Hailo-Me",
+                        "price": 14.79,
+                        "calories": 595,
+                        "description": "Griddled halloumi topped with flat mushroom, mature Cheddar cheese sauce, 7oz grilled veg and 7oz burger sauce"
+                    },
+                    {
+                        "name": "Plant Stack",
+                        "price": 14.79,
+                        "calories": 595,
+                        "description": "Garden burger with a violife side, 7oz HRT Bacon and 7oz burger sauce",
+                        "allergies": [
+                            "vegan"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Classics",
+                "products": [
+                    {
+                        "name": "Beef & Ale Pie",
+                        "price": 13.79,
+                        "description": "Served with triple-cooked chips, garden peas and gravy",
+                        "modifiers": [
+                            {
+                                "name": "Pie Upgrade",
+                                "options": [
+                                    {
+                                        "name": "Upgrade to 8oz Fillet Steak",
+                                        "price": 4.99
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Battered Fish & Chips",
+                        "price": 13.49,
+                        "calories": 951,
+                        "description": "Served with triple-cooked chips and mushy or garden peas"
+                    },
+                    {
+                        "name": "Smothered Chicken Melt",
+                        "price": 14.49,
+                        "description": "Griddled chicken breast topped with smoked BBQ sauce, bacon and mature Cheddar cheese sauce, served with chips and house salad"
+                    },
+                    {
+                        "name": "Risotto Rosmarino",
+                        "price": 13.79,
+                        "calories": 676,
+                        "description": "Served with spiced flatbread and a rocket salad garnished"
+                    }
+                ]
+            },
+            {
+                "name": "Sides",
+                "products": [
+                    {
+                        "name": "Loaded Cheesy Fries",
+                        "price": 4.29,
+                        "description": "Topped with cheddar sauce, cripsy bacon and jalapeños"
+                    },
+                    {
+                        "name": "Fries",
+                        "price": 3.49,
+                        "modifiers": [
+                            {
+                                "name": "Fries Upgrade Options",
+                                "options": [
+                                    {
+                                        "name": "Upgrade to Sweet Potato Fries",
+                                        "price": 0.49
+                                    },
+                                    {
+                                        "name": "Upgrade to Loaded Cheesy Fries",
+                                        "price": 0.99
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Mac & Cheese",
+                        "price": 4.29,
+                        "calories": 482
+                    },
+                    {
+                        "name": "Seasoned Mini Corn Cobs",
+                        "price": 3.29,
+                        "calories": 320
+                    },
+                    {
+                        "name": "Griddled Veg",
+                        "price": 3.29,
+                        "calories": 123
+                    },
+                    {
+                        "name": "Tenderstem Broccoli",
+                        "price": 3.29,
+                        "calories": 123
+                    }
+                ]
+            },
+            {
+                "name": "Desserts",
+                "products": [
+                    {
+                        "name": "Biscoff® Sundae",
+                        "price": 5.99,
+                        "description": "Vanilla ice cream layered with Biscoff® crumbs and Biscoff® sauce. Topped with a whip of cream and a Biscoff® biscuit.",
+                        "calories": 634,
+                        "allergies": [
+                            "vege"
+                        ]
+                    },
+                    {
+                        "name": "Vanilla Ice Cream Sundae with KitKat®",
+                        "price": 6.99,
+                        "description": "Vanilla ice cream layered with KitKat® crumbs and chocolate sauce. Topped with a whip of cream and KitKat® fingers.",
+                        "calories": 580
+                    },
+                    {
+                        "name": "Cheesecake with Cadbury™ Crunchie",
+                        "price": 6.99,
+                        "description": "Baked New York-style cheesecake, topped with Cadbury™ Crunchie pieces and caramel sauce. Served with vanilla ice cream.",
+                        "calories": 924
+                    },
+                    {
+                        "name": "Sticky Toffee Pudding",
+                        "price": 5.99,
+                        "description": "Served with custard.",
+                        "calories": 781
+                    },
+                    {
+                        "name": "Triple Chocolate Brownie",
+                        "price": 6.29,
+                        "description": "Served with chocolate sauce and vanilla ice cream.",
+                        "calories": 740
+                    },
+                    {
+                        "name": "Chocolate Layer Torte",
+                        "price": 6.29,
+                        "description": "Decadent chocolate mousse and chocolate sponge base, topped with freeze-dried raspberries and cream.",
+                        "calories": 741
+                    },
+                    {
+                        "name": "Vanilla Vegan Ice Cream",
+                        "price": 4.99,
+                        "description": "Served with raspberry sauce.",
+                        "calories": 468,
+                        "allergies": [
+                            "vegan"
+                        ]
+                    },
+                    {
+                        "name": "Hot Drink & Mini Triple Chocolate Brownie",
+                        "price": 5.29,
+                        "description": "(calories stated do not include hot drink)",
+                        "calories": 319
+                    }
+                ]
+            },
+            {
+                "name": "'74 Sauces",
+                "products": [
+                    {
+                        "name": "'74 BBQ (ve)",
+                        "price": 0.99
+                    },
+                    {
+                        "name": "'74 HOT (ve)",
+                        "price": 0.99,
+                        "allergies": [
+                            "vegan"
+                        ]
+                    },
+                    {
+                        "name": "'74 Burger (ve)",
+                        "price": 0.99
+                    },
+                    {
+                        "name": "'74 Smokehouse Tomato (ve)",
+                        "price": 0.99,
+                        "allergies": [
+                            "vegan"
+                        ]
+                    },
+                    {
+                        "name": "'74 Bacon Relish",
+                        "price": 0.99
+                    },
+                    {
+                        "name": "'74 Honey & Mustard",
+                        "price": 0.99
+                    },
+                    {
+                        "name": "'74 Mango, Peach & Habanero",
+                        "price": 0.99,
+                        "allergies": [
+                            "vegan"
+                        ]
+                    },
+                    {
+                        "name": "'74 Spicy Mayo",
+                        "price": 0.99,
+                        "allergies": [
+                            "vegan"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,104 @@
+{
+  menus: [
+    {
+      name: "Wine Menu",
+      categories: [
+        {
+          name: "White Wines",
+          products: [
+            {
+              name: "First Fleet Chardonnay",
+              description: "A delicious Chardonnay. Red apple and lemon fruit fills a palate that is dry yet well rounded, making this a versatile accompaniment to food.",
+              price: 21.00,
+              modifiers: [
+                {
+                  name: "Glass Size",
+                  options: [
+                    {
+                      name: "175ml",
+                      price: 5.25
+                    },
+                    {
+                      name: "125ml",
+                      price: 4.20
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              name: "Poggio Alto Pinot Grigio",
+              description: "Fresh pear and almond notes infuse this delicately structured, stylish Pinot Grigio. Dry yet rounded, with a refreshing finish.",
+              price: 23.00,
+              modifiers: [
+                {
+                  name: "Glass Size",
+                  options: [
+                    {
+                      name: "175ml",
+                      price: 5.75
+                    },
+                    {
+                      name: "125ml",
+                      price: 4.60
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              name: "Mancura Etnia Sauvignon Blanc",
+              description: "The nose offers tantalising tropical fruit aromas and white flowers. The palate is clean, fresh and balanced with a very refreshing finish.",
+              price: 25.00,
+              modifiers: [
+                {
+                  name: "Glass Size",
+                  options: [
+                    {
+                      name: "175ml",
+                      price: 6.25
+                    },
+                    {
+                      name: "125ml",
+                      price: 5.00
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              name: "Angelo Grillo, Sicilia",
+              description: "A native Sicilian variety, which here produces a delicious wine, bursting with citrus and tropical fruits. A refreshing and dry finish.",
+              price: 27.00
+            },
+            {
+              name: "Sauvignon Blanc, Marlborough",
+              description: "Lively aromas of gooseberry and passionfruit, followed by grapefruit which tantalises the palate and provides a refreshing clean finish.",
+              price: 29.00,
+              modifiers: [
+                {
+                  name: "Glass Size",
+                  options: [
+                    {
+                      name: "175ml",
+                      price: 7.25
+                    },
+                    {
+                      name: "125ml",
+                      price: 5.80
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              name: "Gavi di Gavi La Contessa",
+              description: "Great texture and precision, with distinctive greengage and almond notes on the palate. Fresh and dry.",
+              price: 33.00
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "menus": [
+    {
+      "name": "Main Menu",
+      "categories": [
+        {
+          "name": "Burgers",
+          "products": [
+            {
+              "name": "NEW Fridays™ Messy Cheeseburger",
+              "description": "100% beef patty dripping with melted cheese. Served on a brioche style bun. Mayo, tomato, pickled red onions with Friday's barbecue glaze on the side.",
+              "calories": 1610,
+              "price": 16.10,
+              "modifiers": [
+                {
+                  "name": "Upgrade your fries",
+                  "options": [
+                    {
+                      "name": "Sweet Potato Fries",
+                      "price": 2,
+                      "calories": 490
+                    },
+                    {
+                      "name": "Cheese & Maple Bacon Loaded Fries",
+                      "price": 2.90,
+                      "calories": 540
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "NEW Deluxe Wagyu Burger",
+              "description": "The luxury burger. 6oz patty made with the finest wagyu beef, topped with grilled mushrooms, caramelised onions, melted Monterey Jack cheese, served with Friday’s beef dip on the side.",
+              "calories": 2240,
+              "price": 24.40
+            },
+            {
+              "name": "Fridays™ Glazed Double Stack Burger",
+              "description": "Two 100% beef patties coated in our Fridays™ Legendary Glaze, Monterey Jack cheese, crispy bacon. Served on a brioche style bun, mayo, tomato, and pickled red onions and extra Fridays™ Legendary Glaze on the side.",
+              "calories": 2110,
+              "price": 21.60
+            },
+            {
+              "name": "Ultimate Cheese Dipper",
+              "description": "Two 100% beef patties with cheese, lettuce, tomato, vodka pickled onions, crispy bacon, with chipotle mayo. Fridays™ Burger Mayo on the side.",
+              "calories": 2240,
+              "price": 22.40
+            }
+          ]
+        },
+        {
+          "name": "Sides",
+          "products": [
+            {
+              "name": "Cajun Spiced Onion Rings",
+              "calories": 420,
+              "price": 6.20
+            }
+          ]
+        },
+        {
+          "name": "FRIDAYS™ LOADED POTATO SKINS",
+          "products": [
+            {
+              "name": "Cheese & Maple Bacon",
+              "description": "Loaded with melted Colby cheese, topped with maple bacon and served with sour cream on the side",
+              "calories": 1560,
+              "price": 15.60
+            },
+            {
+              "name": "Plant-Based Cheese & Bacon",
+              "description": "Loaded with plant-based bacon pieces, vegan cheese and served with avocado and lime dressing for dipping",
+              "calories": 1560,
+              "price": 15.60,
+              "allergies": ["vegan"]
+            }
+          ]
+        },
+        {
+          "name": "NACHOS",
+          "products": [
+            {
+              "name": "Cheese Nachos",
+              "description": "Corn tortillas topped with cheese, pickled jalapeños, guacamole, fresh salsa and drizzled with sour cream",
+              "calories": 1500,
+              "price": 15.90
+            },
+            {
+              "name": "Plant-Based Chicken Nachos",
+              "description": "Corn tortillas topped with plant-based chicken pieces, tossed in spicy habanero relish. Served with smoked Applewood cheese, pickled jalapeños, guacamole and fresh salsa, drizzled with avocado and lime dressing",
+              "calories": 1500,
+              "price": 15.90,
+              "allergies": ["vegan"]
+            }
+          ]
+        },
+        {
+          "name": "TACOS",
+          "products": [
+            {
+              "name": "Chicken",
+              "description": "Two soft taco crusts filled with grilled garlic and lemon chicken, crunchy lettuce, mature cheddar cheese, pico de gallo mix, pineapple, coriander, lime and chipotle glaze",
+              "calories": 1030,
+              "price": 12.00
+            },
+            {
+              "name": "Meatless Chicken",
+              "description": "Two soft toasted tacos filled with plant-based chicken, dressed in spicy habanero relish. Topped with avocado and lime dressing, pico de gallo, crunchy lettuce, pickled red onions and coriander",
+              "calories": 1030,
+              "price": 12.00
+            }
+          ]
+        },
+        {
+          "name": "WINGS",
+          "products": [
+            {
+              "name": "Fridays™ Wings",
+              "description": "Chicken wings tossed in our Fridays™ Legendary Glaze, topped with toasted sesame seeds and chilli flakes",
+              "calories": 205,
+              "price": 9.95
+            },
+            {
+              "name": "Hoisin Wings",
+              "description": "Chicken wings tossed in a rich, sticky hoisin sauce, served with fresh lime",
+              "calories": 905,
+              "price": 16.60
+            },
+            {
+              "name": "Hot Wings",
+              "description": "Chicken wings tossed in Frank’s RedHot sauce with celery sticks and a blue cheese dip",
+              "calories": 905,
+              "price": 16.60
+            },
+            {
+              "name": "Boneless Hot Wings",
+              "description": "Crispy chicken breast chunks tossed in Frank’s RedHot sauce with a blue cheese dip",
+              "calories": 905,
+              "price": 16.60,
+              "modifiers": [
+                {
+                  "name": "Extra dips",
+                  "options": [
+                    {
+                      "name": "Garlic Aioli",
+                      "calories": 150
+                    },
+                    {
+                      "name": "BBQ Sauce",
+                      "calories": 150
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

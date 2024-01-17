@@ -1,0 +1,558 @@
+{
+    "success": true,
+    "data": {
+        "name": "The Olive Tree Menu",
+        "categories": [
+            {
+                "name": "Light Bites",
+                "products": [
+                    {
+                        "name": "HAM AND MOZZARELLA CIABATTA BREAD",
+                        "description": "Ciabatta roll generously filled and toasted, served with side salad.",
+                        "calories": 500,
+                        "price": 5.95,
+                        "allergies": [
+                            "gluten",
+                            "milk",
+                            "mustard"
+                        ]
+                    },
+                    {
+                        "name": "CHICKEN AND MOZZARELLA CIABATTA BREAD",
+                        "description": "Ciabatta roll generously filled and toasted, served with side salad.",
+                        "calories": 726,
+                        "price": 5.95,
+                        "allergies": [
+                            "gluten",
+                            "milk",
+                            "mustard"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Sides",
+                "products": [
+                    {
+                        "name": "MOZZARELLA STICKS",
+                        "description": "Crispy sticks full of melted mozzarella. Served with sweet chilli sauce.",
+                        "calories": 932,
+                        "price": 3.95,
+                        "allergies": [
+                            "gluten",
+                            "milk"
+                        ]
+                    },
+                    {
+                        "name": "4 GARLIC BREAD SLICES",
+                        "description": "Delicious slices of garlic bread topped with cheese. Perfect with any meal!",
+                        "calories": 971,
+                        "price": 3.95,
+                        "allergies": [
+                            "gluten",
+                            "milk"
+                        ]
+                    },
+                    {
+                        "name": "PORTION OF CHIPS",
+                        "description": "The perfect side.",
+                        "calories": 435,
+                        "price": 2.95,
+                        "allergies": [
+                            "gluten"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Pizza Freshly made to order",
+                "products": [
+                    {
+                        "name": "MARGHERITA",
+                        "description": "Simple classic, tomato base, mozzarella & mixed herbs. Vegan cheese available.",
+                        "calories": 682,
+                        "price": 8.25,
+                        "allergies": [
+                            "vegan",
+                            "gluten",
+                            "milk"
+                        ],
+                        "modifiers": [
+                            {
+                                "name": "Extra pizza toppings",
+                                "options": [
+                                    {
+                                        "name": "Chicken",
+                                        "calories": 122,
+                                        "price": 1
+                                    },
+                                    {
+                                        "name": "Pepperoni",
+                                        "calories": 99,
+                                        "price": 1
+                                    },
+                                    {
+                                        "name": "Extra Cheese",
+                                        "calories": 99,
+                                        "price": 1
+                                    },
+                                    {
+                                        "name": "Ham",
+                                        "calories": 113,
+                                        "price": 1
+                                    },
+                                    {
+                                        "name": "Spicy Beef",
+                                        "calories": 100,
+                                        "price": 1
+                                    },
+                                    {
+                                        "name": "Mushrooms",
+                                        "calories": 15,
+                                        "price": 1
+                                    },
+                                    {
+                                        "name": "Jalapeños",
+                                        "calories": 5,
+                                        "price": 1
+                                    },
+                                    {
+                                        "name": "Pineapple",
+                                        "calories": 52,
+                                        "price": 1
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "PEPPERONI",
+                        "description": "Simple classic, tomato base, mozzarella & mixed herbs.",
+                        "calories": 764,
+                        "price": 8.5,
+                        "allergies": [
+                            "gluten",
+                            "milk"
+                        ],
+                        "modifiers": [
+                            {
+                                "name": "Extra pizza toppings",
+                                "options": [
+                                    {
+                                        "name": "Chicken",
+                                        "calories": 122,
+                                        "price": 1
+                                    },
+                                    {
+                                        "name": "Pepperoni",
+                                        "calories": 99,
+                                        "price": 1
+                                    },
+                                    {
+                                        "name": "Extra Cheese",
+                                        "calories": 99,
+                                        "price": 1
+                                    },
+                                    {
+                                        "name": "Ham",
+                                        "calories": 113,
+                                        "price": 1
+                                    },
+                                    {
+                                        "name": "Spicy Beef",
+                                        "calories": 100,
+                                        "price": 1
+                                    },
+                                    {
+                                        "name": "Mushrooms",
+                                        "calories": 15,
+                                        "price": 1
+                                    },
+                                    {
+                                        "name": "Jalapeños",
+                                        "calories": 5,
+                                        "price": 1
+                                    },
+                                    {
+                                        "name": "Pineapple",
+                                        "calories": 52,
+                                        "price": 1
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "HAWAIIAN",
+                        "description": "Tomato base, mozzarella, ham and pineapple.",
+                        "calories": 713,
+                        "price": 8.75,
+                        "allergies": [
+                            "gluten",
+                            "milk"
+                        ],
+                        "modifiers": [
+                            {
+                                "name": "Extra pizza toppings",
+                                "options": [
+                                    {
+                                        "name": "Chicken",
+                                        "calories": 122,
+                                        "price": 1
+                                    },
+                                    {
+                                        "name": "Pepperoni",
+                                        "calories": 99,
+                                        "price": 1
+                                    },
+                                    {
+                                        "name": "Extra Cheese",
+                                        "calories": 99,
+                                        "price": 1
+                                    },
+                                    {
+                                        "name": "Ham",
+                                        "calories": 113,
+                                        "price": 1
+                                    },
+                                    {
+                                        "name": "Spicy Beef",
+                                        "calories": 100,
+                                        "price": 1
+                                    },
+                                    {
+                                        "name": "Mushrooms",
+                                        "calories": 15,
+                                        "price": 1
+                                    },
+                                    {
+                                        "name": "Jalapeños",
+                                        "calories": 5,
+                                        "price": 1
+                                    },
+                                    {
+                                        "name": "Pineapple",
+                                        "calories": 52,
+                                        "price": 1
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "MEAT FEAST",
+                        "description": "Tomato base, mozzarella, chicken, Spicy beef, Pepperoni & ham.",
+                        "calories": 894,
+                        "price": 9.25,
+                        "allergies": [
+                            "gluten",
+                            "milk"
+                        ],
+                        "modifiers": [
+                            {
+                                "name": "Extra pizza toppings",
+                                "options": [
+                                    {
+                                        "name": "Chicken",
+                                        "calories": 122,
+                                        "price": 1
+                                    },
+                                    {
+                                        "name": "Pepperoni",
+                                        "calories": 99,
+                                        "price": 1
+                                    },
+                                    {
+                                        "name": "Extra Cheese",
+                                        "calories": 99,
+                                        "price": 1
+                                    },
+                                    {
+                                        "name": "Ham",
+                                        "calories": 113,
+                                        "price": 1
+                                    },
+                                    {
+                                        "name": "Spicy Beef",
+                                        "calories": 100,
+                                        "price": 1
+                                    },
+                                    {
+                                        "name": "Mushrooms",
+                                        "calories": 15,
+                                        "price": 1
+                                    },
+                                    {
+                                        "name": "Jalapeños",
+                                        "calories": 5,
+                                        "price": 1
+                                    },
+                                    {
+                                        "name": "Pineapple",
+                                        "calories": 52,
+                                        "price": 1
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "VEGETABLE DELUXE",
+                        "description": "Tomato sauce base, mozzarella, sweetcorn, mushrooms, red onion & peppers.",
+                        "calories": 645,
+                        "price": 8.75,
+                        "allergies": [
+                            "gluten",
+                            "milk"
+                        ],
+                        "modifiers": [
+                            {
+                                "name": "Extra pizza toppings",
+                                "options": [
+                                    {
+                                        "name": "Chicken",
+                                        "calories": 122,
+                                        "price": 1
+                                    },
+                                    {
+                                        "name": "Pepperoni",
+                                        "calories": 99,
+                                        "price": 1
+                                    },
+                                    {
+                                        "name": "Extra Cheese",
+                                        "calories": 99,
+                                        "price": 1
+                                    },
+                                    {
+                                        "name": "Ham",
+                                        "calories": 113,
+                                        "price": 1
+                                    },
+                                    {
+                                        "name": "Spicy Beef",
+                                        "calories": 100,
+                                        "price": 1
+                                    },
+                                    {
+                                        "name": "Mushrooms",
+                                        "calories": 15,
+                                        "price": 1
+                                    },
+                                    {
+                                        "name": "Jalapeños",
+                                        "calories": 5,
+                                        "price": 1
+                                    },
+                                    {
+                                        "name": "Pineapple",
+                                        "calories": 52,
+                                        "price": 1
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Pasta",
+                "products": [
+                    {
+                        "name": "BOLOGNESE",
+                        "description": "Rich bolognese sauce on a bed of tagliatelle pasta, served with a slice of garlic bread.",
+                        "calories": 650,
+                        "price": 7.95,
+                        "allergies": [
+                            "gluten-free"
+                        ]
+                    },
+                    {
+                        "name": "LASAGNE",
+                        "description": "The classic Italian dish! Delicious layers of pasta, bolognese and bechamel sauces with grated cheese. Served with freshly baked slice of garlic bread and chips",
+                        "calories": 700,
+                        "price": 8.95,
+                        "allergies": [
+                            "vege"
+                        ]
+                    },
+                    {
+                        "name": "PENNE ARRABBIATA",
+                        "description": "Spicy tomato sauce with penne pasta.",
+                        "calories": 550,
+                        "price": 7.25,
+                        "allergies": [
+                            "vege"
+                        ]
+                    },
+                    {
+                        "name": "CARBONARA",
+                        "description": "Delicious carbonara sauce, with ham, served with tagliatelle pasta",
+                        "calories": 740,
+                        "price": 7.5,
+                        "allergies": [
+                            "gluten-free"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Kids Meals",
+                "description": "Includes a toy and drink.",
+                "products": [
+                    {
+                        "name": "PIZZA AND CHIPS",
+                        "calories": 455,
+                        "price": 4.25
+                    },
+                    {
+                        "name": "BOLOGNESE",
+                        "description": "Served with a slice of garlic bread.",
+                        "calories": 334,
+                        "price": 4.25
+                    },
+                    {
+                        "name": "HOT DOG MEAL",
+                        "calories": 533,
+                        "price": 4.25
+                    }
+                ]
+            },
+            {
+                "name": "Soft Drinks",
+                "products": [
+                    {
+                        "name": "COCA COLA",
+                        "price": 1.8
+                    },
+                    {
+                        "name": "DIET COKE",
+                        "price": 1.6
+                    },
+                    {
+                        "name": "LEMONADE",
+                        "price": 1.6
+                    },
+                    {
+                        "name": "J20",
+                        "price": 2.3
+                    }
+                ]
+            },
+            {
+                "name": "Beer & Cider",
+                "products": [
+                    {
+                        "name": "MORETTI",
+                        "price": 2.45,
+                        "modifiers": [
+                            {
+                                "name": "Size",
+                                "options": [
+                                    {
+                                        "name": "PINT",
+                                        "price": 4.9
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "BUDWEISER (BOTTLE)",
+                        "price": 4
+                    },
+                    {
+                        "name": "BROTHERS CIDER 2 FOR £8",
+                        "price": 4.25
+                    }
+                ]
+            },
+            {
+                "name": "Wine",
+                "products": [
+                    {
+                        "name": "JACK RABBIT",
+                        "price": 3.8,
+                        "modifiers": [
+                            {
+                                "name": "Size",
+                                "options": [
+                                    {
+                                        "name": "250 ML",
+                                        "price": 4.7
+                                    },
+                                    {
+                                        "name": "BOTTLE",
+                                        "price": 10.95
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Hot Drinks",
+                "products": [
+                    {
+                        "name": "CAPPUCCINO",
+                        "price": 2.75,
+                        "modifiers": [
+                            {
+                                "name": "Size",
+                                "options": [
+                                    {
+                                        "name": "MEDIO",
+                                        "price": 3.05
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "LATTE",
+                        "price": 2.75,
+                        "modifiers": [
+                            {
+                                "name": "Size",
+                                "options": [
+                                    {
+                                        "name": "MEDIO",
+                                        "price": 3.05
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "FLAT WHITE",
+                        "price": 2.9
+                    },
+                    {
+                        "name": "MOCHA",
+                        "price": 3.05
+                    },
+                    {
+                        "name": "HOT CHOCOLATE",
+                        "price": 2.95
+                    },
+                    {
+                        "name": "TEA",
+                        "price": 1.95
+                    }
+                ],
+                "modifiers": [
+                    {
+                        "name": "MIX IT UP!",
+                        "options": [
+                            {
+                                "name": "Extra shot of coffee or flavoured syrup",
+                                "price": 0.5
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}
