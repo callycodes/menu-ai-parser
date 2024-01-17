@@ -230,13 +230,13 @@ exports.parseMenu = async (req, res) => {
           .replaceAll(/\\/g, ""); // Remove extra backslashes
 
         await fs.writeFileSync(`./json/${i}.json`, formatted);
-        
+
         try {
           const json = JSON.parse(formatted);
-          return json
+          return json;
         } catch (err) {
-          console.log('Error when parsing JSON: ', i)
-          return undefined
+          console.log("Error when parsing JSON: ", i);
+          return undefined;
         }
       })
     );
@@ -283,9 +283,14 @@ exports.parseMenu = async (req, res) => {
     console.log(formatted);
     **/
 
-    const allCategories = responses.flatMap(obj => obj.menus.flatMap(menu => menu.categories));
+    const allCategories = responses.flatMap((obj) =>
+      obj.menus.flatMap((menu) => menu.categories)
+    );
 
-    res.json({ success: true, data: { name: responses[0].menus[0].name, categories: allCategories } });
+    res.json({
+      success: true,
+      data: { name: responses[0].menus[0].name, categories: allCategories },
+    });
   } catch (error) {
     res.status(500).json({ success: false, message: error.message });
   }
