@@ -1,0 +1,81 @@
+{
+    "success": true,
+    "data": {
+        "name": "Great Northern Thai Cafe Market",
+        "categories": [
+            {
+                "name": "SMALL PLATES",
+                "products": [
+                    {
+                        "name": "Peek Gai Tod",
+                        "description": "Deep Fried Spicy Chicken Wings Served With Spicy Roasted Chilli Sauce.",
+                        "price": 8
+                    },
+                    {
+                        "name": "Yum Nam Tok",
+                        "description": "Grilled Meat Salad With Fresh Thai Herbs, Ground Roasted Rice, Chilli and Lime (a Choice of Beef or Pork).",
+                        "allergies": [
+                            "gluten-free"
+                        ],
+                        "price": 10.5
+                    },
+                    {
+                        "name": "Pla Muk Tod",
+                        "description": "Deep Fried Squid In Batter Served With Spicy Cucumber and Peanut Sauce.",
+                        "price": 8
+                    },
+                    {
+                        "name": "Larb",
+                        "description": "Classic North-Eastern Thai Spicy Minced Meat Salad With Ground Roasted Rice, Chilli, Mint And Fresh Lime Juice (a Choice of Minced Chicken or Minced Pork).",
+                        "allergies": [
+                            "gluten-free"
+                        ],
+                        "price": 10.5
+                    },
+                    {
+                        "name": "Rice",
+                        "description": "Plain Steamed / Sticky / Egg Fried / Coconut",
+                        "price": 4
+                    },
+                    {
+                        "name": "Prawn Crackers",
+                        "description": "Served With Sweet Chilli Sauce.",
+                        "price": 3
+                    }
+                ]
+            },
+            {
+                "name": "LARGE PLATES",
+                "products": [
+                    {
+                        "name": "Panang Gai",
+                        "description": "Chicken cooked in red curry sauce and coconut milk with a touch of shredded kaffir leaves served with steamed rice. Choice of chicken, prawns or vegetables and tofu.",
+                        "allergies": [
+                            "gluten-free",
+                            "vegan"
+                        ],
+                        "price": 13.5
+                    },
+                    {
+                        "name": "Massaman Curry",
+                        "description": "A southern dish of slowly cooked beef and sweet potato.",
+                        "price": 13.5
+                    },
+                    {
+                        "name": "Bangkok Style Noodles",
+                        "description": "A tasty Bangkok style noodle soup with bean sprouts, minced pork, fish balls, fried king prawns topped with ground roasted peanuts, chilli, fresh lime juice and coriander.",
+                        "price": 13.5
+                    },
+                    {
+                        "name": "Pad Prik Gang",
+                        "description": "Fried battered sea bream fillets or tiger prawns with red curry paste, fresh chilli, herbs and spice served with steamed rice. Choice of sea bream, prawns or vegetables and tofu (v).",
+                        "allergies": [
+                            "vegan"
+                        ],
+                        "price": 13.5
+                    }
+                ]
+            }
+        ]
+    }
+}
